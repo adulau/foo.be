@@ -18,11 +18,17 @@
 
   > * {
     margin-bottom: 1.8rem;
-    color: rgba($c__black, .7);
+    color: rgba($c__black, 1);
   }
 
   a:not(.c-btn) {
     text-decoration: underline;
+  }
+
+  ul {
+        margin: 0.2 em;
+        list-style: square;
+        padding: 0.2 em;
   }
 
   blockquote {

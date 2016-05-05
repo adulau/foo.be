@@ -4,12 +4,12 @@
 
 // Font families
 @mixin ff--sans-serif($font-weight: normal) {
-  font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Titillium Web', 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: $font-weight;
 }
 
 @mixin ff--mono($font-weight: normal) {
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Inconsolata', monospace;
   font-weight: $font-weight;
 }
 
@@ -31,7 +31,7 @@
 
 @mixin fs--body {
   line-height: 1.5;
-  font-size: 1.8rem; // 18px
+  font-size: 2rem;
 }
 
 @mixin fs--meta {

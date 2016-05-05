@@ -1,16 +1,15 @@
 # Site settings
-title: Alex Carpenter
-email: your-email@domain.com
+title: Alexandre Dulaunoy - adulau - Home Page
+email: a@foo.be
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/material-jekyll-theme"
-url: "http://alexcarpenter.me"
+
+baseurl: "https://www.foo.be"
+url: "https://www.foo.be"
 fixedNav: 'true' # true or false
-theme: purple # green, blue, orange, purple, grey
-twitterUsername: hybrid_alex
-githubUsername: alexcarpenter
+theme: grey # green, blue, orange, purple, grey
+twitterUsername: adulau
+githubUsername: adulau
+flickrUsername: adulau
 dribbbleUsername:
 codepenUsername:
 
@@ -21,3 +20,8 @@ include: [_pages]
 exclude: [_site, CHANGELOG.md, LICENSE, README.md]
 sass:
   style: compressed
+kramdown:
+  # Enable GitHub Flavored Markdown (fenced code blocks)
+  input: GFM
+  # Disable auto-generated ID's for headings
+  auto_ids: true
