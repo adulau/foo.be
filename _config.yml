@@ -25,3 +25,11 @@ kramdown:
   input: GFM
   # Disable auto-generated ID's for headings
   auto_ids: true
+Pinboard_set:
+  user:            'adulau'
+  limit:  50 
+  list_tag:     'ol'
+  list_class:   'pinboard_list'
+  a_target:        '_blank'
+
+
