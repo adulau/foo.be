@@ -49,7 +49,7 @@ I co-develop and co-maintain [cve-search](https://github.com/adulau/cve-search),
 
 ### Other software
 
-DomainClassifier, misp-modules, url-archiver... and [some more on GitHub](https://www.github.com/adulau/).
+[DomainClassifier](https://github.com/adulau/DomainClassifier), misp-modules, url-archiver... and [some more on GitHub](https://www.github.com/adulau/).
 
 ## Information classification, representation and sharing
 
