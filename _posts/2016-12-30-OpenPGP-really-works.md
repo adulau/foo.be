@@ -82,7 +82,7 @@ In my professional activities, we are actively working on information sharing to
 
 ## Conclusion
 
-After a day of analysis, PGP is used and significantly used at various layers in my day-to-day activities. I can clearly said "PGP works". Indeed, it's not perfect (that's the reality of a lot of cryptosystems) but PGP needs some love at the [IETF](https://datatracker.ietf.org/wg/openpgp/documents/), for the [implementations](http://openpgp.org/software/) or even [some financial support](https://www.gnupg.org/donate/index.html).
+After a day of analysis, PGP is used and significantly used at various layers of my day-to-day activities. I can clearly said "PGP works". Indeed, it's not perfect (that's the reality of a lot of cryptosystems) but PGP needs some love at the [IETF](https://datatracker.ietf.org/wg/openpgp/documents/), for the [implementations](http://openpgp.org/software/) or even [some financial support](https://www.gnupg.org/donate/index.html).
 
 # References
 
