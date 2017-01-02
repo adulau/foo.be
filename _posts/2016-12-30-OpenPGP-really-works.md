@@ -11,7 +11,7 @@ categories: infosec
 
 Alexandre Dulaunoy <a@foo.be>
 
-*version 1 - 2016-12-30*
+*version 1.1 - 2017-01-02*
 
 In the past years, I have seen many articles, publications or blog posts mentioning that PGP is dead or has been replaced by the next-generation chat applications. We are obviously shifting our communication channels towards ephemeral communication schemes and the OpenPGP standard is maybe not the best suited protocol. Already in 2005, the well-known paper "Why Johnny Can’t Encrypt" was already pinpointing the shortcoming of the user-interface and experience in PGP. So I decided **to track one day of my activities relying on PGP** and especially to list where the OpenPGP standards[^1] play a significant role and especially its GnuPG free software implementation.
 
@@ -80,12 +80,19 @@ As I have a [MISP](https://github.com/MISP/) test instance on my laptop, the log
 
 In my professional activities, we are actively working on information sharing to improve the state of information security. One of the tool we co-developed is [MISP](http://www.misp-project.org/) which is actively using PGP to send signed and encrypted notifications, verifying users and organization. MISP is supporting S/MIME and PGP (the usage can be even mixed) but the majority of the MISP communities rely on PGP. In a day, a large sharing community can exchange thousands of encrypted PGP email in a day.
 
+## Signed git commits
+
+[![An example of a signed git commit]({{ site.baseurl }}/assets/signed.png)](https://github.com/MISP/MISP/commit/057a5fa759b222eeaa32347348f5745ebd9af525)
+
+Another use case for PGP, it's the ability to sign git commits. Signing git commit is simple starting with git version 2.0 (it's easier to sign by default every commit you do) and [GitHub even supports the verification](https://help.github.com/articles/signing-commits-using-gpg/) of the signature on their web interface. The benefit of signing git commits is quite significant and if you are interested in the whole process of ensuring commit trust, you should read [A Git Horror Story: Repository Integrity With Signed Commits](https://mikegerwitz.com/papers/git-horror-story.html).
+
 ## Conclusion
 
-After a day of analysis, PGP is used and significantly used at various layers of my day-to-day activities. I can clearly said "PGP works". Indeed, it's not perfect (that's the reality of a lot of cryptosystems) but PGP needs some love at the [IETF](https://datatracker.ietf.org/wg/openpgp/documents/), for the [implementations](http://openpgp.org/software/) or even [some financial support](https://www.gnupg.org/donate/index.html).
+After a day of analysis, PGP is used and significantly at various layers of my day-to-day activities. I can clearly said "PGP works". Indeed, it's not perfect (that's the reality of a lot of cryptosystems) but PGP needs some love at the [IETF](https://datatracker.ietf.org/wg/openpgp/documents/), for the [implementations](http://openpgp.org/software/) or even [some financial support](https://www.gnupg.org/donate/index.html).
 
 # References
 
 - [Why Johnny Can’t Encrypt A Usability Evaluation of PGP 5.0](https://people.eecs.berkeley.edu/~tygar/papers/Why_Johnny_Cant_Encrypt/OReilly.pdf) by ALMA WHITTEN AND J. D. TYGAR in  Security and Usability:  Designing Secure Systems that People Can Use, eds. L. Cranor and G. Simson.  O'Reilly, 2005, pp. 679-702
+- [A Git Horror Story: Repository Integrity With Signed Commits](https://mikegerwitz.com/papers/git-horror-story.html) by Mike Gerwitz.
 
 [^1]: OpenPGP is Open Specification for Pretty Good Privacy with [multiple RFCs](https://datatracker.ietf.org/wg/openpgp/documents/) describing the standard.
