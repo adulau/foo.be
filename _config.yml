@@ -6,7 +6,7 @@ description: >
 baseurl: "https://www.foo.be"
 url: "https://www.foo.be"
 fixedNav: 'true' # true or false
-theme: grey # green, blue, orange, purple, grey
+themeColor: grey # green, blue, orange, purple, grey
 twitterUsername: adulau
 githubUsername: adulau
 flickrUsername: adulau
