@@ -17,7 +17,7 @@ When I want to stay away from computers, I do [photography](https://flickr.com/p
 My day job is located in the information security field and especially in incident response and security research.
 
 Beside my day job, I'm also an intermittent security researcher in various organizations. Organizing a security conference called
-[hack.lu](https://2017.hack.lu/) (it's the 12th edition in 2016) and [lecturing in various universities](/cours/) about information security (like [An introduction to network forensic, system forensic, memory forensic and malware analysis](/cours/dess-20152016/)) are also part of my regular activities.
+[hack.lu](https://2019.hack.lu/) (it's the 15th edition in 2019) and [lecturing in various universities](/cours/) about information security (like [An introduction to network forensic, system forensic, memory forensic and malware analysis](/cours/dess-20172018/)) are also part of my regular activities.
 
 ## Projects
 
