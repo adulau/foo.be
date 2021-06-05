@@ -10,11 +10,11 @@ You just found the messy place of [Alexandre Dulaunoy](./about) who enjoys when 
 
 My interest is mainly focus around elegant [computer science](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD896.html) "simple and surprisingly effective" as described by Edsger W. Dijkstra in [EWD896](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD896.html). I'm practically experimenting the model into [free software crafting](https://github.com/adulau/), information security and information representation.
 
-When I want to stay away from computers, I do [photography](https://flickr.com/photos/adulau) and tries to express some photographic feelings in a [photo blog](/photoblog/). Facing the hard reality of biology and ecological system with [gardening](/cgi-bin/wiki.pl/GardeningStuff) is also one of my interest.
+When I want to stay away from computers, I do [photography](https://flickr.com/photos/adulau) and tries to express some photographic feelings in a [photo blog](/photoblog/) and [artistic works](https://www.instagram.com/alexandredulaunoy/). Facing the hard reality of biology and ecological system with [gardening](/cgi-bin/wiki.pl/GardeningStuff) is also one of my interest.
 
 ## Activities
 
-My day job is located in the information security field and especially in incident response and security research.
+My day job is located in the information security field and especially in incident response, threat intelligence and security research.
 
 Beside my day job, I'm also an intermittent security researcher in various organizations. Organizing a security conference called
 [hack.lu](https://2019.hack.lu/) (it's the 15th edition in 2019) and [lecturing in various universities](/cours/) about information security (like [An introduction to network forensic, system forensic, memory forensic and malware analysis](/cours/dess-20172018/)) are also part of my regular activities.
@@ -41,15 +41,19 @@ I implemented multiple Passive DNS frameworks including [pdns-qof-server](https:
 
 ### Passive SSL framework
 
-In the same scope of Passive DNS, historical monitoring of X.509 certificate per IP address is useful to better understand the current and past use of Internet resources. Code is available in [crl-monitor](https://github.com/adulau/crl-monitor).
+In the same scope of Passive DNS, historical monitoring of X.509 certificate per IP address is useful to better understand the current and past use of Internet resources. Code is available in [crl-monitor](https://github.com/adulau/crl-monitor). I also maintain the modern [ssldump](https://github.com/adulau/ssldump) version.
 
 ### cve-search
 
 I co-develop and co-maintain [cve-search](https://github.com/adulau/cve-search), a tool to import CVE (Common Vulnerabilities and Exposures) and CPE (Common Platform Enumeration) into a MongoDB to facilitate search and processing of CVEs. The main objective of the software is to avoid doing direct and public lookup into the public CVE database. cve-search supports multiple sources and feeds of vulnerability database to aggregate the information about software vulnerabilities.
 
+### MISP
+
+Being part of the core team of the [MISP Project](https://www.misp-project.org/), I'm involved in the development of the project from the early beginning and contribute on various aspects with a wonderful team. I'm also the co-author of the various Internet-Draft for the [MISP standard format](https://www.misp-standard.org/).
+
 ### Other software
 
-[DomainClassifier](https://github.com/adulau/DomainClassifier), misp-modules, url-archiver... and [some more on GitHub](https://www.github.com/adulau/).
+[DomainClassifier](https://github.com/adulau/DomainClassifier), [misp-modules](https://www.github.com/MISP/misp-modules/), url-archiver... and [some more on GitHub](https://www.github.com/adulau/).
 
 ## Information classification, representation and sharing
 
