@@ -28,7 +28,7 @@ As an example in MISP, you can see below how an analyst can assign a specific es
 
 ![A practical example of estimative language within the MISP platform]({{ site.baseurl }}/assets/misp-estimative-language.png)
 
-Behind the scene, [misp-taxonomies](https://github.com/MISP/misp-taxonomies/) are described in a [simple JSON format](https://github.com/MISP/misp-taxonomies/blob/master/estimative-language/machinetag.json):
+Behind the scene, [misp-taxonomies](https://github.com/MISP/misp-taxonomies/) are described in a [simple JSON format](https://github.com/MISP/misp-taxonomies/blob/main/estimative-language/machinetag.json):
 
 ~~~~json
 {
