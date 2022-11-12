@@ -22,6 +22,13 @@ in many of those (including designing or/and playing), I compiled my thoughts an
 in such approach. The idea behind this series of notes is to improve such exercise or experiment other approaches.
 
 # Synthetic information/evidences
+
+While participating to some exercises, a lot of the evidences used are synthetic and rarely reflect realities from operational
+security. This gives a perception to the players that the evidences are like this in real cases. But it's usually not the case, the
+collection of the evidences (and its complexity) is often discarded from such game. Any digital forensic investigator knows how
+complex is to gather, collect and acquire evidences. So it's not by playing or participating to such exercise that would help you
+or your organisation to grasp the complexity and improve your team capabilities.
+
 - Synthetic information or evidences
 - The aim is often limited to solve one or more challenges
 
@@ -36,6 +43,12 @@ multi-compromised infrastructures.
 
 - Resources and allocation
 - Outcomes and how results are integrated in operational security
+
+# Ideas and improvements to make "exercises" useful
+
+|Proposal|Description|
+|:----|:-----|
+|Take real cases, evidences and investigations|Avoid at all cost synthetic or fake data when creating exercises. If you take real data, don't mix-up with synthetic data.|
 
 # References
 
