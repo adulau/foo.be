@@ -8,9 +8,7 @@ permalink: /paper-notebook-usage/
 
 ![One of my numerous stack of notebooks](/assets/notebook_52041203272_5070f094ae_w.jpg)
 
-Paper notebook sounds like an old fashioned and outdated practice in these of days of technologies. I used for years paper notebook to support me in my work and creative process. 
-Over the years, I kept my old paper notebooks for archiving purpose but also to see what's the evolution of my practices. This page is a summary of what I discovered and learned from
-the process. This page will be regularly updated with my failures and successes in notes taking.
+In today's tech-driven world, paper notebooks may seem outdated and old-fashioned. However, I have found them to be a valuable tool for supporting my work and creative process. I have been using paper notebooks for years, and have kept them for archiving purposes as well as to track the evolution of my practices. This page is a summary of what I have learned from this process, and will be regularly updated with my successes and failures in note-taking.
 
 My paper notebook process is strongly linked with my electronic note (I use [nb](https://github.com/xwmx/nb) and did used [Joplin](https://github.com/laurent22/joplin) previously[^2]).
 
