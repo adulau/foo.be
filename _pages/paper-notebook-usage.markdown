@@ -4,7 +4,7 @@ title: Paper notebook usage
 permalink: /paper-notebook-usage/
 ---
 
-# Paper notebook usage
+# Paper notebook usage - how do I use and choose a paper notebook?
 
 ![One of my numerous stack of notebooks](/assets/notebook_52041203272_5070f094ae_w.jpg)
 
@@ -38,7 +38,7 @@ This example is extracted from my notebook **2022-L-STACK-003**[^1] (it's a [Leu
 
 As you can see, I have some codes of the top right of the page. The `e` value within a Pi is used as a reminder to me that I need to transpose these notes into an electronic version. I have very simple code for the TODO notes, like partially done or fully done. 
 
-## Parameters for a notebook
+## Parameters for selecting a notebook
 
 If I want to acquire a paper notebook, I usually look at the following parameters. It also depends of what will be the use of the notebook. My main uses are the following:
 
