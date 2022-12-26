@@ -16,11 +16,15 @@ permalink: /contact/
 
 # PGP
 
+## Old key (RSA)
+
 My historical OpenPGP key [can be downloaded]({{ site.baseurl }}/assets/key.pgp) and has the following fingerprint:
 
 ~~~~
 3B12 DCC2 82FA 2931 2F5B 709A 09E2 CD49 44E6 CBCD
 ~~~~
+
+## New key (ECC)
 
 My ECC (Ed25519) OpenPGP key is the following:
 
@@ -38,5 +42,9 @@ Hstz1VBKAP4hF0IE9P5pO/CZg+bJHRUCvzwV6NmYtZqBWiLq0uZGbgD/ddKQFFo3
 Gor39/9Xjp3Umk8KUQupsRgujYdbdqRh5A0=
 =+qVy
 -----END PGP PUBLIC KEY BLOCK-----
+~~~~
+
+~~~~
+6BB5 6353 1D99 F112 4C00  8C4F 815D 4786 1ECB 73D5
 ~~~~
 
