@@ -3,7 +3,7 @@ title: Alexandre Dulaunoy - adulau - Home Page
 email: a@foo.be
 description: >
 
-baseurl: "https://www.foo.be"
+baseurl: ""
 url: "https://www.foo.be"
 fixedNav: 'true' # true or false
 themeColor: grey # green, blue, orange, purple, grey
