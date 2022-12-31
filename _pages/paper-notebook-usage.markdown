@@ -11,7 +11,7 @@ indexed: true
 
 In today's tech-driven world, paper notebooks may seem outdated and old-fashioned. However, I have found them to be a valuable tool for supporting my work and creative process. I have been using paper notebooks for years, and have kept them for archiving purposes as well as to track the evolution of my practices. This page is a summary of what I have learned from this process, and will be regularly updated with my successes and failures in note-taking.
 
-My paper notebook process is strongly linked with my electronic note (I use [nb](https://github.com/xwmx/nb)[^3] and did used [Joplin](https://github.com/laurent22/joplin) previously[^2]).
+My paper notebook process is strongly linked with my electronic note (I use [nb](https://github.com/xwmx/nb)[^3] and did use [Joplin](https://github.com/laurent22/joplin) previously[^2]).
 
 Why I used a mixed model of paper and electronic notes-taking? It's mainly due to the pros versus the cons of the paper notebooks.
 
