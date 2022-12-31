@@ -7,7 +7,7 @@ permalink: /articles/
 <ul class="c-archives__list">
 {% for page in site.pages %}
    {% if page.indexed == true %}
-   <li class="c-archives__item"> <a href="{{ page.url }}">{{ page.title }}</a></li>
+   <li class="c-archives__item"> <a href="{{ page.url }}">{{ page.title }}</a> {{ page.last_modified_at | date: "%b %-d, %Y" }} </li>
    {% endif %}
 {% endfor %}
 </ul>

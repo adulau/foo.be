@@ -31,5 +31,6 @@ Pinboard_set:
   list_tag:     'ol'
   list_class:   'pinboard_list'
   a_target:        '_blank'
-
+plugins:
+  - jekyll-last-modified-at
 
