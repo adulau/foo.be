@@ -2,6 +2,7 @@
 layout: page
 title: Paper notebook usage 
 permalink: /paper-notebook-usage/
+indexed: true
 ---
 
 # Paper notebook usage - how do I use and choose a paper notebook?
@@ -10,7 +11,7 @@ permalink: /paper-notebook-usage/
 
 In today's tech-driven world, paper notebooks may seem outdated and old-fashioned. However, I have found them to be a valuable tool for supporting my work and creative process. I have been using paper notebooks for years, and have kept them for archiving purposes as well as to track the evolution of my practices. This page is a summary of what I have learned from this process, and will be regularly updated with my successes and failures in note-taking.
 
-My paper notebook process is strongly linked with my electronic note (I use [nb](https://github.com/xwmx/nb) and did used [Joplin](https://github.com/laurent22/joplin) previously[^2]).
+My paper notebook process is strongly linked with my electronic note (I use [nb](https://github.com/xwmx/nb)[^3] and did used [Joplin](https://github.com/laurent22/joplin) previously[^2]).
 
 Why I used a mixed model of paper and electronic notes-taking? It's mainly due to the pros versus the cons of the paper notebooks.
 
@@ -46,10 +47,12 @@ If I want to acquire a paper notebook, I usually look at the following parameter
 
 ### Size
 
-My two favorite size for notebooks are
+My two favorite size for notebooks are A5 and A6. The sizes that I tested are the following:
 
-- A6 - 105mm x 148mm
 - A5 - 145mm x 210mm
+- A6 - 105mm x 148mm
+- pocket size - 90mm x 140mm (Moleskine original size)
+- passport size (B7) - 90mm x 125mm
 
 The A6 size is perfect for wandering use as it fits in a pocket. The A5 size is more suitable for office or meeting use. 
 
@@ -86,11 +89,11 @@ There are many companies having creative page type from project management to-do
 
 The binding of the notebook sounds like a non-critical element but it's the most critical one. I remember buying low-cost notebook where after 4 weeks of usage, you are loosing pages in your bag. Avoid the only glue-based binding, it's usually a source of issue. Usually it's mixed with loop stitches (or sometime combined with perfect bound or tape bound) to make the notebook more solid.
 
-There are also notebook with spiral. I avoid the notebook with a spiral binding like the plague because these tend to broke in my bag or mess-up with other stuff.
+There are also notebook with spiral. I avoid the notebook with a spiral or wirebound binding like the plague because these tend to broke in my bag or mess-up with other stuff.
 
 Another important aspect, a paper notebook needs sometime to lie flat properly. And it highly depends of the binding. Test it and see if you can easily open it and keep it without too much pressure.
 
-### Strap/Elastic
+### Strap/Elastic closure
 
 Having an elastic is a must for a paper notebook. There are different reasons such as:
 
@@ -101,7 +104,7 @@ Good paper notebook tend to have a strap/elastic but some brands don't have one.
 
 ### Cover
 
-Soft cover and hard cover is usually a matter of taste. I tend to prefer a hard cover for A5/A4 size but for pocket-size notebook, I prefer soft cover as it's more flexible when you have to squeeze it in a small bag or pocket.
+Soft cover and hard cover is usually a matter of taste. I tend to prefer a hard cover for A5/A4 size but for pocket-size notebook, soft covers are more flexible when you have to squeeze the notebook in a small bag or pocket. I tend to prefer black cover (nice to avoid the dirt over the time) and writing with white-acrylic pen on it with a Posca PC-1MR or similar pen.
 
 ### Addons
 
@@ -111,35 +114,70 @@ One bookmark is the minimum, nowadays paper have one or more bookmark. Having tw
 
 ### Brands
 
+I only mention the brands of the notebooks I used and found useful. The really crappy brands are not mentioned. 
+
 #### Leuchttrum 1917
 
-Paper quality (80 gsm) + good texture
+[Leuchtturm1917](https://www.leuchtturm1917.co.uk/) produces an impressive set of Notebook and maybe one of my favorite is their A6 notebook. The various products from them is quite solid and still cost a reasonable price. These often come with two bookmarks and pages are numbered. The minor drawback is the page color is a bit yellowish but the paper quality is great even for 80 gsm.
 
 #### Moleskine
 
+[Moleskine](https://www.moleskine.com/) was one of my favorite brand before the improvements done by other brands. Their sketchbook are great and really nice if you travel a lot.
+The classical collection (9x14cm) with soft or hard cover is quite nice but without page numbering. The Leuchttrum 1917 A6 is a bit larger. Depending
+of the project, pocket size versus A6 size is often a dilemma. The pricing for Moleskine is a bit too much sometime but if you don't consume a lot of notebook per year, it's maybe a good deal.
+
 #### Bindewerk 
 
-Sketchbook 160g (blank) are great
+[Bindewerk](http://www.bindewerk.com/) produces a large of notebook and their sketchbook (INSPIRATION) 160gsm (blank) are really great.
 
-Notebook 
+They have also a large set of solid basic notebooks.
 
-### Tricks
+#### Dotgrid
+
+[Dotgrid](https://www.dotgrid.co/) produces a large set of notebook. Unfortunately many of those are bounded with wirebound binding. The others are really good and rock-solid especially the dot-grid journal.The paper quality is impressive, the elastic closer is usually pretty good. Just the page numbering is missing...
+
+### Tricks and Hacks for your Notebook
 
 ![My first moleskine in 2006](https://farm1.static.flickr.com/45/149754989_e7f517336c_m.jpg)
 
-My [original Moleskine hack page](http://www.foo.be/cgi-bin/wiki.pl/MoleskineHack) from 2009.
+Below you can find, my [original Moleskine hack page](http://www.foo.be/cgi-bin/wiki.pl/MoleskineHack) from 2009 with some recent additions.
 
 #### Numbering pages
 
-Many brands now include page numbering but it's not always the case. Then you must not forget to number the pages if you use your notebook as a stack of information and you need an index to find back easily a topic.
+Many brands now include page numbering but it's not always the case. Then you must not forget to number the pages if you use your notebook as a stack of information and you need an index to find back easily a topic. You can also do "double numbering" to complement the existing numbering of the pages, especially when you use your notebook as a `stack`. You can also strike through the number to indicate if the page is no more important or underline it to mention it as an important page.
 
 #### Name and number your notebook
 
-#### Cornell Notes-Taking methods and notebook
+`YEAR`-`BRAND/FORMAT`-`TYPE`-`#`
 
-[The Cornell Note Taking System](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/)
+Such as `2022-L-STACK-003` which is the notebook used to do this initial page.
+
+The type is the use-case of the notebook
+
+- `STACK` is stacking information or original ideas in different pages.
+- `FINAL` is the final notes which can be archived or published as it.
+- `SKETCH` is the sketching of artistic or photographic work.
+
+The `#` is just a sequence often starting at 001 per year.
+
+#### Cornell note-taking methods and notebook
+
+There are special page format to support note-taking strategy such as [The Cornell Note Taking System](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/). This process
+can be useful sometime and then you can add printed pages in your notebook to follow such a specific process.
+
+A LaTeX template for Cornell note-taking is available as [GitHub gist](https://gist.github.com/adulau/8a4d2c1be98631354591ee07e2b4ea50).
 
 #### Paper clip
+
+Having two or three paper clips in your notebook can be useful for various use-cases:
+
+- For a stacking notebook, combining multiple pages into a single stack.
+- For a sketching notebook, it's not uncommon to keep small photos, notes, evidences or traces with other notes. 
+- and a paper clip can be useful for many other things.
+
+#### TODOs list
+
+TODOs are often very common in notebooks but it's an easy filler. Using post-it notes in the notebook helps to reduce the waste of pages and can be easily replaced when the TODO list is over.
 
 # Disclaimer
 
@@ -147,3 +185,4 @@ I didn't receive any free paper notebook to do this page. I'm not a bloody influ
 
 [^1]: All my paper notebook are labelled with a name and number. Check out the tricks section.
 [^2]: I moved to [nb](https://github.com/xwmx/nb) to [Joplin](https://github.com/laurent22/joplin) as I wanted a git back-end for my daily notes. Both are two incredible open source software for notes-taking.
+[^3]: Copying from my electronic notebook to my public website, it's a single command. `cp /home/adulau/.nb/home/post/note-usage.md /home/adulau/git/foo.be/_pages/paper-notebook-usage.markdown`
