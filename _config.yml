@@ -33,4 +33,5 @@ Pinboard_set:
   a_target:        '_blank'
 plugins:
   - jekyll-last-modified-at
+  - jekyll-sitemap
 
