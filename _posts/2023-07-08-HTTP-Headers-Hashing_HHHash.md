@@ -21,6 +21,8 @@ HTTP Headers Hashing (HHHash) is a technique used to create a fingerprint of an 
 
 To calculate the HHHash, we concatenate the list of headers returned by the HTTP server. This list is ordered according to the sequence in which the headers appear in the server's response. Each header value is separated with `:`. 
 
+You may be wondering why the set of headers is not sorted. This decision stems from our observations of a significant number of servers attempting to mimic other servers, often resulting in variations in the order of their returned HTTP headers.
+
 The HHHash value is the SHA256 of the list.
 
 ### HHHash format
@@ -46,6 +48,10 @@ hhh:1:78f7ef0651bac1a5ea42ed9d22242ed8725f07815091032a34ab4e30d3c3cefc
 
 HHHash is an effective technique; however, its performance is heavily reliant on the characteristics of the HTTP client requests. Therefore, it is important to note that correlations between a set of hashes are typically established when using the same crawler or HTTP client parameters.
 
+## Potential improvements
+
+As you can observe, HHHash incorporates a version identifier in its value, enabling seamless updates to new hashing functions or concatenation strategies for the headers. One potential approach would be to employ a locality-sensitive hashing algorithm, which calculates distances between sets of headers and facilitates efficient comparisons.
+
 # References
 
-- [Python library - HHHash](https://github.com/adulau/HHHash)
+- A first version of a [Python library - HHHash](https://github.com/adulau/HHHash)
