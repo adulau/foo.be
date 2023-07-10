@@ -55,3 +55,7 @@ As you can observe, HHHash incorporates a version identifier in its value, enabl
 # References
 
 - A first version of a [Python library - HHHash](https://github.com/adulau/HHHash)
+- [c-hhhash](https://github.com/hrbrmstr/c-hhhash) - C++ HTTP Headers Hashing CLI
+- [go-hhhash](https://github.com/hrbrmstr/go-hhhash) - golang HTTP Headers Hashing CLI
+- [R hhhash](https://github.com/hrbrmstr/hhhash) - R library HHHash
+
