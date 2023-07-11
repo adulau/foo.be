@@ -58,4 +58,5 @@ As you can observe, HHHash incorporates a version identifier in its value, enabl
 - [c-hhhash](https://github.com/hrbrmstr/c-hhhash) - C++ HTTP Headers Hashing CLI
 - [go-hhhash](https://github.com/hrbrmstr/go-hhhash) - golang HTTP Headers Hashing CLI
 - [R hhhash](https://github.com/hrbrmstr/hhhash) - R library HHHash
+- [MISP object template hhhash](https://www.misp-project.org/objects.html#_hhhash) - to descrive HHHash in MISP and share those
 
