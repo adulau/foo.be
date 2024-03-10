@@ -5,12 +5,12 @@ title: Alexandre Dulaunoy
 
 You just found the messy place of [Alexandre Dulaunoy](./about) who enjoys when human are using machines in unexpected ways. I break stuff and I do stuff.
 
-
 ## Interests
 
-My interest is mainly focus around elegant [computer science](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD896.html) "simple and surprisingly effective" as described by Edsger W. Dijkstra in [EWD896](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD896.html). I'm practically experimenting the model into [free software crafting](https://github.com/adulau/), information security and information representation.
+My interest primarily revolves around the elegance of [computer science](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD896.html), especially the concept of "simple and surprisingly effective" as described by Edsger W. Dijkstra in [EWD896](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD896.html). I actively apply these principles in practice through [free software crafting](https://github.com/adulau/), information security, and information representation.
 
-When I want to stay away from computers, I do [photography](https://flickr.com/photos/adulau) and tries to express some photographic feelings in a [photo blog](/photoblog/) and [artistic works](https://www.instagram.com/alexandredulaunoy/). Facing the hard reality of biology and ecological system with [gardening](/cgi-bin/wiki.pl/GardeningStuff) is also one of my interest.
+When I want to take a break from computers, I engage in [photography](https://flickr.com/photos/adulau), attempting to convey my photographic emotions through a [photo blog](/photoblog/) and [artistic works](https://www.instagram.com/alexandredulaunoy/). I also have an interest in understanding the tough realities of biology and ecological systems, which I explore through [gardening](/cgi-bin/wiki.pl/GardeningStuff).
+
 
 ## Activities
 
@@ -18,6 +18,8 @@ My day job is located in the information security field and especially in incide
 
 Beside my day job, I'm also an intermittent security researcher in various organizations. Organizing a security conference called
 [hack.lu](https://2023.hack.lu/) (it's the 17th edition in 2023) and [lecturing in various universities](/cours/) about information security (like [An introduction to network forensic, system forensic, memory forensic and malware analysis](/cours/dess-20172018/)) are also part of my regular activities.
+
+If you're curious, you can check out a collection of my live activities on [this page](/status/).
 
 ## Projects
 
