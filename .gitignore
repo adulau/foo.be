@@ -1,5 +1,5 @@
 _site
 .sass-cache
-#_pages/activities.markdown
-#_pages/status.md
-#tools/status
+_pages/activities.markdown
+_pages/status.md
+tools/status
