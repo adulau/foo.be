@@ -6,103 +6,103 @@ permalink: /activities
 
 # Recent Online Activities
 
-- github.com [adulau pushed to gh-pages in adulau/foo.be](https://github.com/adulau/foo.be/compare/378fcb57c2...2910a22a99) @Sun May 26 15:32:40 2024
-- github.com [adulau pushed to gh-pages in adulau/foo.be](https://github.com/adulau/foo.be/compare/1942379240...378fcb57c2) @Sun May 26 15:27:17 2024
-- paperbay.org [do you remember#stone #tomb #urbex #photography #photographe](https://paperbay.org/@a/112507840011263128) @Sun May 26 15:23:18 2024
-- www.flickr.com [do you remember](https://www.flickr.com/photos/adulau/53747606293/) @Sun May 26 15:21:30 2024
-- github.com [adulau starred jointakahe/takahe](https://github.com/jointakahe/takahe) @Sun May 26 11:58:55 2024
-- github.com [adulau starred DISTRHO/Cardinal](https://github.com/DISTRHO/Cardinal) @Sun May 26 10:15:48 2024
-- paperbay.org [behind the scene#streetphotography #street #monochrome #phot](https://paperbay.org/@a/112506161421724798) @Sun May 26 08:16:25 2024
-- www.flickr.com [behind the scene](https://www.flickr.com/photos/adulau/53747213955/) @Sun May 26 08:14:51 2024
-- paperbay.org [searching for others#streetphotography #street #arlon #photo](https://paperbay.org/@a/112506107895960459) @Sun May 26 08:02:48 2024
-- www.flickr.com [searching for others](https://www.flickr.com/photos/adulau/53747194590/) @Sun May 26 08:00:49 2024
-- paperbay.org [lost wall#wall #lost #urbex #monochrome #photo #photography ](https://paperbay.org/@a/112506033089851054) @Sun May 26 07:43:47 2024
-- www.flickr.com [lost wall](https://www.flickr.com/photos/adulau/53747078184/) @Sun May 26 07:42:24 2024
-- paperbay.org [urban nature#pigeon #photography #photo #architecture #belgi](https://paperbay.org/@a/112501022373054134) @Sat May 25 10:29:29 2024
-- www.flickr.com [urban nature](https://www.flickr.com/photos/adulau/53745350145/) @Sat May 25 10:24:33 2024
-- paperbay.org [living proudly#streetphotography #street #gent #photography ](https://paperbay.org/@a/112500958956619650) @Sat May 25 10:13:22 2024
-- www.flickr.com [living proudly](https://www.flickr.com/photos/adulau/53743990017/) @Sat May 25 10:04:46 2024
-- paperbay.org [detour#streetphotography #street #bynight #photography #phot](https://paperbay.org/@a/112500735823704623) @Sat May 25 09:16:37 2024
-- www.flickr.com [detour](https://www.flickr.com/photos/adulau/53745191989/) @Sat May 25 09:15:09 2024
-- github.com [adulau commented on pull request MISP/misp-objects#432](https://github.com/MISP/misp-objects/pull/432#issuecomment-2130783582) @Sat May 25 06:20:45 2024
-- github.com [adulau pushed to main in MISP/misp-objects](https://github.com/MISP/misp-objects/compare/a193e03ad2...d8bcd62172) @Sat May 25 06:20:13 2024
-- github.com [adulau merged a pull request in MISP/misp-objects](https://github.com/MISP/misp-objects/pull/432) @Sat May 25 06:20:12 2024
-- github.com [adulau commented on pull request MISP/misp-warninglists#273](https://github.com/MISP/misp-warninglists/pull/273#issuecomment-2130783268) @Sat May 25 06:19:26 2024
-- github.com [adulau merged a pull request in MISP/misp-warninglists](https://github.com/MISP/misp-warninglists/pull/273) @Sat May 25 06:19:22 2024
-- github.com [adulau pushed to main in MISP/misp-warninglists](https://github.com/MISP/misp-warninglists/compare/f541d1417a...b30bd9c03d) @Sat May 25 06:19:22 2024
-- github.com [adulau starred lexbailey/compilerfax](https://github.com/lexbailey/compilerfax) @Fri May 24 06:17:56 2024
+- github.com [adulau merged a pull request in cve-search/pyvariot](https://github.com/cve-search/pyvariot/pull/1) @Sun Jul  7 09:49:44 2024
+- github.com [adulau pushed to main in cve-search/pyvariot](https://github.com/cve-search/pyvariot/compare/7b80e4bb16...08915df09b) @Sun Jul  7 09:49:44 2024
+- github.com [adulau pushed to main in cve-search/vulnerability-lookup](https://github.com/cve-search/vulnerability-lookup/compare/dd94d77401...f4895dd3e5) @Sun Jul  7 09:35:31 2024
+- github.com [adulau opened an issue in hashlookup/poppy](https://github.com/hashlookup/poppy/issues/6) @Sun Jul  7 08:30:19 2024
+- github.com [adulau pushed to main in cve-search/vulnerability-lookup](https://github.com/cve-search/vulnerability-lookup/compare/bea5892e48...dd94d77401) @Sun Jul  7 08:07:12 2024
+- github.com [adulau opened an issue in hashlookup/poppy](https://github.com/hashlookup/poppy/issues/5) @Sun Jul  7 07:09:22 2024
+- github.com [adulau starred Flickr-Foundation/flickypedia](https://github.com/Flickr-Foundation/flickypedia) @Sun Jul  7 06:44:05 2024
+- paperbay.org [eternal love#streetphotography #street #rue #dog #japan #pho](https://paperbay.org/@a/112741409729243765) @Sat Jul  6 21:23:09 2024
+- www.flickr.com [eternal love](https://www.flickr.com/photos/adulau/53839910700/) @Sat Jul  6 21:21:58 2024
+- paperbay.org [warming up#globalwarming #sun #warm #streetphotography #phot](https://paperbay.org/@a/112740309286059075) @Sat Jul  6 16:43:18 2024
+- www.flickr.com [warming up](https://www.flickr.com/photos/adulau/53838098647/) @Sat Jul  6 16:41:53 2024
+- paperbay.org [Belgian style#streetphotography #street #photography #photo ](https://paperbay.org/@a/112740241593562052) @Sat Jul  6 16:26:05 2024
+- www.flickr.com [belgian style](https://www.flickr.com/photos/adulau/53839207588/) @Sat Jul  6 16:22:43 2024
+- paperbay.org [laughing to death#laugh #laughing #streetphotography #street](https://paperbay.org/@a/112740186103162468) @Sat Jul  6 16:11:58 2024
+- www.flickr.com [laughing to death](https://www.flickr.com/photos/adulau/53838034352/) @Sat Jul  6 16:08:20 2024
+- github.com [adulau pushed to main in MISP/misp-galaxy](https://github.com/MISP/misp-galaxy/compare/52ed6c0f50...b2657d7dcc) @Sat Jul  6 07:00:05 2024
+- github.com [adulau merged a pull request in MISP/misp-galaxy](https://github.com/MISP/misp-galaxy/pull/997) @Sat Jul  6 07:00:04 2024
+- github.com [adulau starred 0x4D31/cve-2024-6387_hassh](https://github.com/0x4D31/cve-2024-6387_hassh) @Fri Jul  5 16:29:53 2024
+- github.com [adulau pushed to develop in MISP/MISP](https://github.com/MISP/MISP/compare/cfdd3554be...f3cdf54496) @Fri Jul  5 16:18:01 2024
+- github.com [adulau commented on issue MISP/MISP#9814](https://github.com/MISP/MISP/issues/9814#issuecomment-2211034282) @Fri Jul  5 16:03:31 2024
+- github.com [adulau pushed to develop in MISP/MISP](https://github.com/MISP/MISP/compare/2eaa84c118...cfdd3554be) @Fri Jul  5 14:39:00 2024
+- github.com [adulau pushed to 2.4 in MISP/MISP](https://github.com/MISP/MISP/compare/fcc1b112fa...1205211532) @Fri Jul  5 09:07:25 2024
+- github.com [adulau starred stacksmashing/pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer) @Fri Jul  5 07:17:47 2024
+- github.com [adulau starred thetacom/hexabyte](https://github.com/thetacom/hexabyte) @Fri Jul  5 05:07:37 2024
+- paperbay.org [street life#streetlife #street #streetphotography #streetpho](https://paperbay.org/@a/112731900425904008) @Fri Jul  5 05:04:49 2024
+- www.flickr.com [street life](https://www.flickr.com/photos/adulau/53836259603/) @Fri Jul  5 05:02:09 2024
+- paperbay.org [everlasting distance#photography #streetphotography #photo #](https://paperbay.org/@a/112731809787250064) @Fri Jul  5 04:41:46 2024
+- www.flickr.com [everlasting distance](https://www.flickr.com/photos/adulau/53835090992/) @Fri Jul  5 04:39:40 2024
+- paperbay.org [Don’t forget to update your Mastodon servers to the latest v](https://paperbay.org/@a/112729531176347509) @Thu Jul  4 19:02:17 2024
+- github.com [adulau pushed to main in cerebrate-project/cerebrate-website](https://github.com/cerebrate-project/cerebrate-website/compare/cb8ae44537...d931b95b02) @Thu Jul  4 15:09:10 2024
+- github.com [adulau released Cerebrate version 1.21 released with various bugs fixed at cerebrate-project/cerebrate](https://github.com/cerebrate-project/cerebrate/releases/tag/v1.21) @Thu Jul  4 15:06:04 2024
+- github.com [adulau released vulnerability-lookup version 1.1.0 released with new extension RSS/ATOM support, ability to comment vulnerabilities and many other improvements at cve-search/vulnerability-lookup](https://github.com/cve-search/vulnerability-lookup/releases/tag/v1.1.0) @Thu Jul  4 11:08:52 2024
+- github.com [adulau pushed to main in cve-search/vulnerability-lookup](https://github.com/cve-search/vulnerability-lookup/compare/08e0fc69fc...7b49e92a6a) @Thu Jul  4 11:01:51 2024
+- github.com [adulau pushed to main in cve-search/vulnerability-lookup](https://github.com/cve-search/vulnerability-lookup/compare/d569c0030a...08e0fc69fc) @Thu Jul  4 11:01:11 2024
+- github.com [adulau pushed to main in cve-search/vulnerability-lookup](https://github.com/cve-search/vulnerability-lookup/compare/7da811174d...97cc2cbc30) @Thu Jul  4 08:27:09 2024
+- github.com [adulau pushed to main in cve-search/vulnerability-lookup](https://github.com/cve-search/vulnerability-lookup/compare/02f70f3ba8...7da811174d) @Thu Jul  4 08:11:51 2024
+- github.com [adulau starred openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) @Thu Jul  4 06:33:10 2024
+- github.com [adulau starred JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) @Thu Jul  4 06:29:59 2024
+- infosec.exchange [Sometime at security conference like @passthesaltcon you dis](https://infosec.exchange/@adulau/112722990955641646) @Wed Jul  3 15:19:01 2024
+- github.com [adulau starred EagleoutIce/tikzpingus](https://github.com/EagleoutIce/tikzpingus) @Wed Jul  3 15:15:04 2024
+- infosec.exchange [Bring back RSS for operational security.🔗 Slides -  https://](https://infosec.exchange/@adulau/112722755360628611) @Wed Jul  3 14:19:06 2024
+- git.foo.be [Alexandre Dulaunoy synced commits to master at adulau/rss-tools from mirror](https://git.foo.be/adulau/rss-tools/compare/502018fcbb71010a4b198e848bc46443478f215d...ab456a8014b8cbe920a3411fa03f5a4468356a7c) @Wed Jul  3 10:25:40 2024
+- github.com [adulau starred inflex/ripMIME](https://github.com/inflex/ripMIME) @Wed Jul  3 10:01:23 2024
+- github.com [adulau pushed to master in adulau/rss-tools](https://github.com/adulau/rss-tools/compare/502018fcbb...ab456a8014) @Tue Jul  2 20:40:38 2024
+- infosec.exchange [Version Fingerprinting Tricks: Automating Software Identific](https://infosec.exchange/@adulau/112718542982073398) @Tue Jul  2 20:27:50 2024
+- github.com [adulau starred YARAHQ/yara-forge](https://github.com/YARAHQ/yara-forge) @Tue Jul  2 10:04:33 2024
+- github.com [adulau starred zgzhang/cve-2024-6387-poc](https://github.com/zgzhang/cve-2024-6387-poc) @Tue Jul  2 09:56:03 2024
+- infosec.exchange [The Analyst Data has been integrated into the MISP core stan](https://infosec.exchange/@adulau/112699166062272421) @Sat Jun 29 10:20:02 2024
+- infosec.exchange [&quot;In CARLA through 0.9.15.2, the collision sensor mishandles ](https://infosec.exchange/@adulau/112698970752414299) @Sat Jun 29 09:30:22 2024
+- infosec.exchange [If you&#x27;re curious about the domains which will be affected b](https://infosec.exchange/@adulau/112698716006890196) @Sat Jun 29 08:25:35 2024
+- paperbay.org [eternal distance#photography #photo #monochrome #blackandwhi](https://paperbay.org/@a/112698529301824598) @Sat Jun 29 07:38:06 2024
+- www.flickr.com [eternal distance](https://www.flickr.com/photos/adulau/53822917236/) @Sat Jun 29 07:36:51 2024
+- paperbay.org [framing distance #streetphotography #street #photography #ph](https://paperbay.org/@a/112698072855188153) @Sat Jun 29 05:42:01 2024
+- www.flickr.com [framing distance](https://www.flickr.com/photos/adulau/53821872597/) @Sat Jun 29 05:40:32 2024
+- paperbay.org [Open source is getting stronger in Luxembourg. There is also](https://paperbay.org/@a/112677301725159884) @Tue Jun 25 13:39:39 2024
+- infosec.exchange [Have you conducted groundbreaking research in security or de](https://infosec.exchange/@adulau/112670490162272999) @Mon Jun 24 08:47:22 2024
+- git.foo.be [Alexandre Dulaunoy synced commits to main at adulau/sillon-fictionnel from mirror](https://git.foo.be/adulau/sillon-fictionnel/compare/d26b4f959cd719b94f18869c436c273538aea35c...c0272ab5d52465f9c2e0231929f2cc8fda98554d) @Sun Jun 23 22:07:10 2024
+- paperbay.org [J&#x27;ai écrit une petite chronique pour le @sillon_fictionnel s](https://paperbay.org/@a/112666313110309500) @Sun Jun 23 15:05:06 2024
+- paperbay.org [angular distance#streetphotography #japan #photography #phot](https://paperbay.org/@a/112665457012751066) @Sun Jun 23 11:27:23 2024
+- www.flickr.com [angular distance](https://www.flickr.com/photos/adulau/53810365060/) @Sun Jun 23 11:25:55 2024
+- www.flickr.com [curious guy](https://www.flickr.com/photos/adulau/53810249174/) @Sun Jun 23 11:14:43 2024
+- paperbay.org [empire de lumière#belgium #belgique #photography #photo #riv](https://paperbay.org/@a/112665309299749591) @Sun Jun 23 10:49:49 2024
+- www.flickr.com [l&#x27;empire de lumière](https://www.flickr.com/photos/adulau/53810323595/) @Sun Jun 23 10:48:15 2024
+- paperbay.org [Slowing moving my old Redis code to Valkey - The valkey.io p](https://paperbay.org/@a/112664917779437052) @Sun Jun 23 09:10:15 2024
+- paperbay.org [tension of life#streetphotography #street #photography #phot](https://paperbay.org/@a/112659497610700315) @Sat Jun 22 10:11:49 2024
+- www.flickr.com [tension of life](https://www.flickr.com/photos/adulau/53807927178/) @Sat Jun 22 10:10:45 2024
+- paperbay.org [caring more#streetphotography #street #japan #people #photog](https://paperbay.org/@a/112659283477452907) @Sat Jun 22 09:17:22 2024
+- www.flickr.com [caring more](https://www.flickr.com/photos/adulau/53807948409/) @Sat Jun 22 09:15:24 2024
+- paperbay.org [night stories#streetphotography #street #japan #streetphoto ](https://paperbay.org/@a/112658570922580883) @Sat Jun 22 06:16:09 2024
+- www.flickr.com [night stories](https://www.flickr.com/photos/adulau/53807776919/) @Sat Jun 22 06:14:11 2024
+- infosec.exchange [Perhaps one day, threat-intelligence vendors will understand](https://infosec.exchange/@adulau/112653972656939028) @Fri Jun 21 10:46:45 2024
+- paperbay.org [nice stories#streetphotography #street #photography #photo #](https://paperbay.org/@a/112652593919883546) @Fri Jun 21 04:56:07 2024
+- www.flickr.com [nice stories](https://www.flickr.com/photos/adulau/53805400306/) @Fri Jun 21 04:54:33 2024
+- paperbay.org [urban stories#photography #photo #monochrome #blackandwhitep](https://paperbay.org/@a/112650905787752009) @Thu Jun 20 21:46:49 2024
+- www.flickr.com [urban stories](https://www.flickr.com/photos/adulau/53804810206/) @Thu Jun 20 21:44:56 2024
+- paperbay.org [funny stories#funny #streetphotography #street #people #japa](https://paperbay.org/@a/112647063444212095) @Thu Jun 20 05:29:39 2024
+- www.flickr.com [funny stories](https://www.flickr.com/photos/adulau/53803749690/) @Thu Jun 20 05:26:36 2024
+- www.flickr.com [it will be better](https://www.flickr.com/photos/adulau/53803159130/) @Wed Jun 19 21:52:20 2024
+- www.flickr.com [night street](https://www.flickr.com/photos/adulau/53800659921/) @Tue Jun 18 22:03:26 2024
+- www.flickr.com [the night began](https://www.flickr.com/photos/adulau/53800425629/) @Tue Jun 18 17:29:50 2024
+- infosec.exchange [We are still at the stage where the ISO standards body sells](https://infosec.exchange/@adulau/112613977622221958) @Fri Jun 14 09:15:30 2024
+- git.foo.be [Alexandre Dulaunoy synced commits to master at adulau/pdns-qof from mirror](https://git.foo.be/adulau/pdns-qof/commit/a3875a15b4539ee474145b7b3b5d6e4d91d7cae0) @Wed Jun  5 10:41:21 2024
+- git.foo.be [Alexandre Dulaunoy synced commits to master at adulau/pdns-qof from mirror](https://git.foo.be/adulau/pdns-qof/compare/bda022278b804d0395da94b76cfe7d044ea56d8c...ba37444daa08e765fde591117d0830138bb6c7a2) @Mon Jun  3 09:41:21 2024
+- git.foo.be [Alexandre Dulaunoy synced new reference Minor_Grammar to adulau/pdns-qof from mirror](https://git.foo.be/adulau/pdns-qof/src/Minor_Grammar) @Mon Jun  3 01:31:21 2024
+- git.foo.be [Alexandre Dulaunoy synced commits to main at adulau/sillon-fictionnel from mirror](https://git.foo.be/adulau/sillon-fictionnel/compare/6280795befb0e1a3902526158605b14a18620140...d26b4f959cd719b94f18869c436c273538aea35c) @Sun Jun  2 22:11:22 2024
+- infosec.exchange [&quot;Kex-Filtering: A Proactive Approach to Filtering&quot;Kex-Filter](https://infosec.exchange/@adulau/112545906917613295) @Sun Jun  2 08:44:13 2024
+- git.foo.be [Alexandre Dulaunoy synced commits to gh-pages at adulau/foo.be from mirror](https://git.foo.be/adulau/foo.be/commit/4206cf3845dee43951b82424de33d2fe0a6fadd5) @Thu May 30 07:41:20 2024
+- git.foo.be [Alexandre Dulaunoy synced commits to gh-pages at adulau/foo.be from mirror](https://git.foo.be/adulau/foo.be/commit/7490008f441a13ac1f889ad16884ca9203b79270) @Wed May 29 23:31:21 2024
+- git.foo.be [Alexandre Dulaunoy synced commits to refs/pull/97/merge at adulau/ssldump from mirror](https://git.foo.be/adulau/ssldump/compare/db5c44b2e6297e41e66d8a2095402cea252da94a...5c619b867a6187c977b3248e784b8510dc719a79) @Wed May 29 14:31:20 2024
+- infosec.exchange [Has anyone conducted a full social network analysis on the c](https://infosec.exchange/@adulau/112522695774313899) @Wed May 29 06:21:19 2024
+- git.foo.be [Alexandre Dulaunoy synced commits to gh-pages at adulau/foo.be from mirror](https://git.foo.be/adulau/foo.be/compare/19423792408f8c87d4868e5a79f4541c97f62ba4...d50b80eca09af31213c6c3addb08b15a9ed6a671) @Sun May 26 22:11:20 2024
+- infosec.exchange [Pinpointing Locations: Analyzing Regular Activities to Guess](https://infosec.exchange/@adulau/112508079172873872) @Sun May 26 16:24:07 2024
 - infosec.exchange [KB Security Advisory Ivanti Endpoint Manager (EPM) May 2024A](https://infosec.exchange/@adulau/112494207715032650) @Fri May 24 05:36:26 2024
 - infosec.exchange [It&#x27;s time to start from scratch with the web indexing servic](https://infosec.exchange/@adulau/112491322533332844) @Thu May 23 17:22:41 2024
-- github.com [adulau opened an issue in cerebrate-project/cerebrate](https://github.com/cerebrate-project/cerebrate/issues/169) @Thu May 23 14:43:27 2024
 - git.foo.be [Alexandre Dulaunoy synced commits to master at adulau/pmf from mirror](https://git.foo.be/adulau/pmf/commit/aed0acf4ff14eef1d8e65a9a5989be9371333ff7) @Thu May 23 14:01:19 2024
 - infosec.exchange [Updated Programming Methodology Framework aka PMF (version 0](https://infosec.exchange/@adulau/112490187970441339) @Thu May 23 12:34:09 2024
-- github.com [adulau pushed to main in adulau/hack-lu-2023](https://github.com/adulau/hack-lu-2023/compare/b4d2c0aaaa...b027319a26) @Thu May 23 12:20:20 2024
-- github.com [adulau pushed to master in adulau/pmf](https://github.com/adulau/pmf/compare/3eb49d3fb4...aed0acf4ff) @Thu May 23 09:41:50 2024
-- github.com [adulau commented on pull request MISP/misp-galaxy#974](https://github.com/MISP/misp-galaxy/pull/974#issuecomment-2126492928) @Thu May 23 09:09:39 2024
-- github.com [adulau pushed to main in adulau/hack-lu-2023](https://github.com/adulau/hack-lu-2023/compare/bbdc8ca000...b4d2c0aaaa) @Thu May 23 08:41:41 2024
-- github.com [adulau commented on pull request MISP/misp-galaxy#974](https://github.com/MISP/misp-galaxy/pull/974#issuecomment-2126434779) @Thu May 23 08:39:03 2024
-- github.com [adulau commented on pull request MISP/misp-galaxy#979](https://github.com/MISP/misp-galaxy/pull/979#issuecomment-2126412751) @Thu May 23 08:26:23 2024
-- github.com [adulau starred informed-governance-project/NISINP](https://github.com/informed-governance-project/NISINP) @Wed May 22 15:21:48 2024
-- github.com [adulau starred CERT-Polska/mtracker](https://github.com/CERT-Polska/mtracker) @Wed May 22 14:43:46 2024
-- github.com [adulau pushed to main in ail-project/Similarius](https://github.com/ail-project/Similarius/compare/5c33ffc154...a1fe53b078) @Wed May 22 10:18:36 2024
-- github.com [adulau merged a pull request in ail-project/Similarius](https://github.com/ail-project/Similarius/pull/93) @Wed May 22 10:18:35 2024
-- github.com [adulau pushed to main in cve-search/vulnerability-lookup](https://github.com/cve-search/vulnerability-lookup/compare/f823c33248...212bcdecc4) @Wed May 22 09:30:47 2024
-- github.com [adulau pushed to master in MISP/misp-galaxy](https://github.com/MISP/misp-galaxy/compare/3c3aade83e...3a96da7b8f) @Wed May 22 06:48:55 2024
-- github.com [adulau commented on pull request MISP/misp-galaxy#978](https://github.com/MISP/misp-galaxy/pull/978#issuecomment-2123857281) @Wed May 22 05:45:48 2024
-- github.com [adulau pushed to main in MISP/misp-galaxy](https://github.com/MISP/misp-galaxy/compare/f3a145c96f...585a9714db) @Wed May 22 05:45:39 2024
-- github.com [adulau merged a pull request in MISP/misp-galaxy](https://github.com/MISP/misp-galaxy/pull/978) @Wed May 22 05:45:38 2024
-- github.com [adulau pushed to master in MISP/misp-galaxy](https://github.com/MISP/misp-galaxy/compare/5afaf4b066...3c3aade83e) @Tue May 21 16:02:39 2024
-- github.com [adulau commented on pull request MISP/misp-galaxy#977](https://github.com/MISP/misp-galaxy/pull/977#issuecomment-2122838004) @Tue May 21 16:00:50 2024
-- github.com [adulau pushed to main in MISP/misp-galaxy](https://github.com/MISP/misp-galaxy/compare/7310ac2c14...f3a145c96f) @Tue May 21 15:59:55 2024
 - infosec.exchange [Call for papers is now open for hack.lu 2024 🔗  https://2024](https://infosec.exchange/@adulau/112478706231258553) @Tue May 21 11:54:12 2024
-- paperbay.org [nature game over#reflet #reflection #photography #industrial](https://paperbay.org/@a/112472768272090411) @Mon May 20 10:44:06 2024
-- www.flickr.com [nature game over](https://www.flickr.com/photos/adulau/53733916780/) @Mon May 20 10:42:41 2024
-- paperbay.org [fade to grey#streetphotography #street #photography #photo #](https://paperbay.org/@a/112472479580558648) @Mon May 20 09:30:41 2024
-- www.flickr.com [fade to grey](https://www.flickr.com/photos/adulau/53733359441/) @Mon May 20 09:22:20 2024
-- paperbay.org [catastrophe #catastrophe #streetart #streetphotography #mono](https://paperbay.org/@a/112468495967024146) @Sun May 19 16:37:36 2024
-- www.flickr.com [catastrophe](https://www.flickr.com/photos/adulau/53731628916/) @Sun May 19 16:35:34 2024
-- paperbay.org [prosperous traces#traces #industrial #industries #urbex #aba](https://paperbay.org/@a/112468096137682499) @Sun May 19 14:55:55 2024
-- www.flickr.com [prosperous traces](https://www.flickr.com/photos/adulau/53730506777/) @Sun May 19 14:53:48 2024
-- paperbay.org [living proudly#streetphotography #street #photography #bsp #](https://paperbay.org/@a/112468009070612705) @Sun May 19 14:33:46 2024
-- www.flickr.com [living proudly](https://www.flickr.com/photos/adulau/53731596453/) @Sun May 19 14:32:17 2024
-- paperbay.org [because care is the acid#urbex #photography #photo #monochro](https://paperbay.org/@a/112467940752565340) @Sun May 19 14:16:24 2024
-- www.flickr.com [because care is the acid](https://www.flickr.com/photos/adulau/53730447337/) @Sun May 19 14:14:42 2024
-- paperbay.org [wallifornie and swimming pool#urbex #abandoned #belgium #bel](https://paperbay.org/@a/112467840257127390) @Sun May 19 13:50:50 2024
-- www.flickr.com [wallifornie and swimming pool](https://www.flickr.com/photos/adulau/53730401827/) @Sun May 19 13:48:52 2024
 - git.foo.be [Alexandre Dulaunoy synced new reference dependabot/bundler/rexml-3.2.8 to adulau/brouilleursdeblanc from mirror](https://git.foo.be/adulau/brouilleursdeblanc/src/dependabot/bundler/rexml-3.2.8) @Thu May 16 22:52:20 2024
 - infosec.exchange [&quot;Palo Alto Networks is buying IBM’s QRadar cloud software as](https://infosec.exchange/@adulau/112448900589037012) @Thu May 16 05:34:14 2024
-- paperbay.org [We are living in the paroxysm of crazy cloud business strate](https://paperbay.org/@a/112435697388760313) @Mon May 13 21:36:29 2024
-- git.foo.be [Alexandre Dulaunoy synced commits to master at adulau/ssldump from mirror](https://git.foo.be/adulau/ssldump/compare/c755079045447b13e8f94e837e8b1fd5701f8d86...de20cad354d1510be7fa98f280e529144244de22) @Mon May 13 16:02:09 2024
-- git.foo.be [Alexandre Dulaunoy synced new reference dependabot/github_actions/ossf/scorecard-action-2.3.3 to adulau/ssldump from mirror](https://git.foo.be/adulau/ssldump/src/dependabot/github_actions/ossf/scorecard-action-2.3.3) @Mon May 13 07:52:11 2024
-- www.flickr.com [Finding the angle](https://www.flickr.com/photos/adulau/53716192380/) @Sun May 12 15:59:10 2024
-- paperbay.org [Listen to the ambient sounds recorded at the location where ](https://paperbay.org/@a/112428693317453937) @Sun May 12 15:55:15 2024
-- git.foo.be [Alexandre Dulaunoy synced commits to main at adulau/sillon-fictionnel from mirror](https://git.foo.be/adulau/sillon-fictionnel/commit/6280795befb0e1a3902526158605b14a18620140) @Sun May 12 14:12:10 2024
-- paperbay.org [The A Castle#photography #photo #monochrome #blackandwhiteph](https://paperbay.org/@a/112427771265398965) @Sun May 12 12:00:46 2024
-- www.flickr.com [The A Castle](https://www.flickr.com/photos/adulau/53714447597/) @Sun May 12 11:59:24 2024
-- paperbay.org [keyhole#art #artwork #museum #photography #photo #people](https://paperbay.org/@a/112427460107792435) @Sun May 12 10:41:38 2024
-- www.flickr.com [keyhole](https://www.flickr.com/photos/adulau/53714349642/) @Sun May 12 10:39:40 2024
-- paperbay.org [Caught an adorable encounter on our video capture: a cat mee](https://paperbay.org/@a/112427318462472606) @Sun May 12 10:05:37 2024
-- paperbay.org [street of Berlin#streetphotography #street #photography #pho](https://paperbay.org/@a/112423418340809326) @Sat May 11 17:33:46 2024
-- www.flickr.com [street of Berlin](https://www.flickr.com/photos/adulau/53712845327/) @Sat May 11 17:31:50 2024
-- www.flickr.com [curiosity will kill you](https://www.flickr.com/photos/adulau/53713943468/) @Sat May 11 17:15:05 2024
-- git.foo.be [Alexandre Dulaunoy synced commits to master at adulau/pdns-qof from mirror](https://git.foo.be/adulau/pdns-qof/compare/7863b019e8ede42640226eca83bb1af0f64e7988...bda022278b804d0395da94b76cfe7d044ea56d8c) @Sat May 11 16:22:10 2024
-- www.flickr.com [no way](https://www.flickr.com/photos/adulau/53712171582/) @Sat May 11 09:42:27 2024
-- infosec.exchange [Never forget to look at the meta fiels in CVE it&#x27;s usually w](https://infosec.exchange/@adulau/112421490149775923) @Sat May 11 09:23:24 2024
-- git.foo.be [Alexandre Dulaunoy synced new reference XML_Formatting_fixes to adulau/pdns-qof from mirror](https://git.foo.be/adulau/pdns-qof/src/XML_Formatting_fixes) @Sat May 11 00:02:10 2024
-- git.foo.be [Alexandre Dulaunoy synced commits to master at adulau/pmf from mirror](https://git.foo.be/adulau/pmf/commit/3eb49d3fb4d07f8742c9191469d789427e4f2a38) @Fri May 10 00:12:11 2024
-- infosec.exchange [I made several improvements to the MISP modules, now a fully](https://infosec.exchange/@adulau/112411961249777944) @Thu May  9 17:00:04 2024
-- git.foo.be [Alexandre Dulaunoy synced and deleted reference refs/tags/refs/pull/30/merge at adulau/pdns-qof from mirror](https://git.foo.be/adulau/pdns-qof) @Thu May  9 15:22:11 2024
-- git.foo.be [Alexandre Dulaunoy synced commits to master at adulau/pdns-qof from mirror](https://git.foo.be/adulau/pdns-qof/compare/6f06da5bfbff2e5b73b05597a625f28d48799fa7...7863b019e8ede42640226eca83bb1af0f64e7988) @Thu May  9 15:22:11 2024
-- git.foo.be [Alexandre Dulaunoy synced commits to main at adulau/sillon-fictionnel from mirror](https://git.foo.be/adulau/sillon-fictionnel/commit/b86479e90b084eb6f743ba9714b7ad13603a516a) @Tue May  7 12:02:10 2024
-- git.foo.be [Alexandre Dulaunoy synced commits to main at adulau/sillon-fictionnel from mirror](https://git.foo.be/adulau/sillon-fictionnel/commit/8f2982878c6150fc0fb5bd917081134e6620eb99) @Tue May  7 03:52:10 2024
-- git.foo.be [Alexandre Dulaunoy synced commits to main at adulau/sillon-fictionnel from mirror](https://git.foo.be/adulau/sillon-fictionnel/compare/fd44b67479de1410320e5132125e8c83f8489ca3...a73f85323cee80a925b7800d4d4504cda41c9773) @Sun May  5 03:12:10 2024
-- git.foo.be [Alexandre Dulaunoy synced commits to main at adulau/sillon-fictionnel from mirror](https://git.foo.be/adulau/sillon-fictionnel/compare/7aa793a8046a2e12ac53106b28f65b337ac159b5...fd44b67479de1410320e5132125e8c83f8489ca3) @Sat May  4 19:12:09 2024
-- git.foo.be [Alexandre Dulaunoy synced commits to main at adulau/sillon-fictionnel from mirror](https://git.foo.be/adulau/sillon-fictionnel/compare/58e96ba2ae9400e1055a2967b733961b091537b8...7aa793a8046a2e12ac53106b28f65b337ac159b5) @Wed May  1 10:13:13 2024
-- git.foo.be [Alexandre Dulaunoy synced commits to main at adulau/sillon-fictionnel from mirror](https://git.foo.be/adulau/sillon-fictionnel/compare/e0a59d6f1e42b3f84cf6bb9dd7a9c419950bf0fb...58e96ba2ae9400e1055a2967b733961b091537b8) @Tue Apr 30 17:53:13 2024
-- git.foo.be [Alexandre Dulaunoy synced commits to refs/pull/97/merge at adulau/ssldump from mirror](https://git.foo.be/adulau/ssldump/compare/cf9ceb1d0706351686f0f5d66dfbee6f4331b9f8...db5c44b2e6297e41e66d8a2095402cea252da94a) @Mon Apr 29 18:03:14 2024
-- git.foo.be [Alexandre Dulaunoy synced commits to master at adulau/ssldump from mirror](https://git.foo.be/adulau/ssldump/compare/d02412720b2a9dc006bfde51b6528628829885de...c755079045447b13e8f94e837e8b1fd5701f8d86) @Mon Apr 29 09:53:13 2024
-- git.foo.be [Alexandre Dulaunoy synced commits to main at adulau/sillon-fictionnel from mirror](https://git.foo.be/adulau/sillon-fictionnel/compare/b609fe8040e7796b879830fa78f992ab59f1b0a3...e0a59d6f1e42b3f84cf6bb9dd7a9c419950bf0fb) @Sun Apr 28 17:03:14 2024
-- git.foo.be [Alexandre Dulaunoy synced commits to main at adulau/sillon-fictionnel from mirror](https://git.foo.be/adulau/sillon-fictionnel/compare/37f3f0ec3e06d2fcd3781d707ff10209f7b6f3d6...b609fe8040e7796b879830fa78f992ab59f1b0a3) @Sun Apr 28 09:01:43 2024
-- git.foo.be [Alexandre Dulaunoy synced commits to master at adulau/pdns-qof from mirror](https://git.foo.be/adulau/pdns-qof/compare/1345839645e011f960df445c40d43cd93cc39c74...6f06da5bfbff2e5b73b05597a625f28d48799fa7) @Sat Apr 27 10:21:42 2024
-- git.foo.be [Alexandre Dulaunoy synced commits to main at adulau/sillon-fictionnel from mirror](https://git.foo.be/adulau/sillon-fictionnel/commit/37f3f0ec3e06d2fcd3781d707ff10209f7b6f3d6) @Fri Apr 26 08:11:41 2024
-- infosec.exchange [Could @cve @CVE_Program or NIST NVD consider adding rejectio](https://infosec.exchange/@adulau/112330653427116725) @Thu Apr 25 08:22:25 2024
+- git.foo.be [Alexandre Dulaunoy synced and deleted reference refs/tags/refs/pull/106/merge at adulau/ssldump from mirror](https://git.foo.be/adulau/ssldump) @Mon May 13 16:02:09 2024
