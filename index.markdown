@@ -19,7 +19,7 @@ My day job is located in the information security field and especially in incide
 Beside my day job, I'm also an intermittent security researcher in various organizations. Organizing a security conference called
 [hack.lu](https://2024.hack.lu/) (it's the 18th edition in 2024) and [lecturing in various universities](/cours/) about information security (like [An introduction to network forensic, system forensic, memory forensic and malware analysis](/cours/dess-20172018/)) are also part of my regular activities.
 
-If you're curious, you can check out a collection of my live activities on [this page](/status/).
+If you're curious, you can check out a collection of my live activities on [this page](/status/) or the [archive of my Mastodon account](_mastodon).
 
 ## Projects
 
