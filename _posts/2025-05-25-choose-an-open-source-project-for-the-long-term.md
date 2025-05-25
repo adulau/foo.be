@@ -6,11 +6,14 @@ categories: free-software open-source
 ---
 
 How to Choose an Open Source Project for the Long Term
+
 *version 1.0 - 25th May 2025*
 
 Many of us face the challenge of selecting open source projects for long-term use. This could involve choosing dependencies for your own open source project, or simply selecting software you plan to run and rely on over time.
 
 After experiencing multiple failures, disappointments with projects that turned proprietary, or even the complete disappearance of some repositories, I decided to compile a list of parameters, indicators, and signals that might help identify solid, sustainable open source projects, as well as warning signs that could indicate potential risks.
+
+![a bigger splash](/assets/review.jpg)
 
 ## CLA - Contributor License Agreement
 
