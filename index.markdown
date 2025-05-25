@@ -11,13 +11,14 @@ My interest primarily revolves around the elegance of [computer science](https:/
 
 When I want to take a break from computers, I engage in [photography](https://flickr.com/photos/adulau), attempting to convey my photographic emotions through a [photo blog](/photoblog/) and [artistic works](https://www.instagram.com/alexandredulaunoy/). I also have an interest in understanding the tough realities of biology and ecological systems, which I explore through [gardening](/cgi-bin/wiki.pl/GardeningStuff).
 
+I also enjoy writing and actively contribute to an open reading club called [le sillon fictionnel](https://sillon-fictionnel.club/), which I help maintain.
 
 ## Activities
 
 My day job is located in the information security field and especially in incident response, threat intelligence and security research.
 
 Beside my day job, I'm also an intermittent security researcher in various organizations. Organizing a security conference called
-[hack.lu](https://2024.hack.lu/) (it's the 18th edition in 2024) and [lecturing in various universities](/cours/) about information security (like [An introduction to network forensic, system forensic, memory forensic and malware analysis](/cours/dess-20172018/)) are also part of my regular activities.
+[hack.lu](https://2025.hack.lu/) (it's the 18th edition in 2024) and [lecturing in various universities](/cours/) about information security (like [An introduction to network forensic, system forensic, memory forensic and malware analysis](/cours/dess-20172018/)) are also part of my regular activities.
 
 If you're curious, you can check out a collection of my live activities on [this page](/status/) or the [archive of my Mastodon account](_mastodon).
 
