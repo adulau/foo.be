@@ -1,0 +1,51 @@
+/*
+ *------------------------------------------------
+ * tables
+ *------------------------------------------------
+ */
+
+table {
+  display: table;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+th,
+td {
+  padding: 0.5rem 0.75rem; // space inside cells
+  text-align: left;
+  vertical-align: top;
+
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08); // lightweight border
+  border-left: 1px solid rgba(0, 0, 0, 0.06);
+
+  &:first-of-type {
+    border-left: 0;
+  }
+}
+
+thead {
+  th {
+    font-weight: 600;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+  }
+}
+
+tbody {
+  tr {
+    &:last-of-type {
+      th,
+      td {
+        border-bottom: 0;
+      }
+    }
+
+    // optional subtle hover effect
+    &:hover {
+      background: rgba(0, 0, 0, 0.02);
+    }
+  }
+}
