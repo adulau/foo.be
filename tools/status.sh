@@ -1,5 +1,6 @@
 #!/bin/bash
 
 python3 ~/git/rss-tools/bin/rssmerge.py "https://git.foo.be/adulau.rss"  "http://api.flickr.com/services/feeds/photos_public.gne?id=31797858@N00&lang=en-us&format=atom" "https://github.com/adulau.atom" "https://paperbay.org/@a.rss" "https://infosec.exchange/@adulau.rss" "https://vulnerability.circl.lu/user/adulau.rss" -o markdown --maxitem 100 >status
+python3 ~/git/rss-tools/bin/rssjournal.py "https://git.foo.be/adulau.rss"  "https://api.flickr.com/services/feeds/photos_public.gne?id=31797858@N00&lang=en-us&format=atom" "https://github.com/adulau.atom" "https://paperbay.org/@a.rss" "https://infosec.exchange/@adulau.rss" "https://vulnerability.circl.lu/user/adulau.rss" "https://discourse.ossbase.org/u/adulau/activity.rss"  -d ../journal/
 cat status.md.template status >../_pages/status.md
 cat activities.md.template status >../_pages/activities.markdown
