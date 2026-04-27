@@ -14,6 +14,11 @@ permalink: /contact/
  Phone : +32(0)61460742
 ~~~~
 
+# Mastodon
+
+- [@adulau@infosec.exchange](https://infosec.exchange/@adulau) - Infosec side
+- [@a@paperbay.org ](https://paperbay.org/@a) - Art, open source, photography and many more
+
 # PGP
 
 ## Old key (RSA)
