@@ -458,6 +458,6 @@ If open source made code visible, and open data made information visible, the ne
 - Online tool to browse or create/edit Open Contributions Descriptor file: [https://ossbase-org.github.io/ocd-viewer/app/home.html](https://ossbase-org.github.io/ocd-viewer/app/home.html) - Git repository [https://github.com/ossbase-org/ocd-viewer](https://github.com/ossbase-org/ocd-viewer)
 - GitHub organisation generator to Open Contribution Descriptor format: [https://github.com/ossbase-org/Open-Contributions-Descriptor/blob/main/bin/github-to-ocd.py](https://github.com/ossbase-org/Open-Contributions-Descriptor/blob/main/bin/github-to-ocd.py)
 - [Discourse topic about OCD format](https://discourse.ossbase.org/t/open-contributions-descriptor/1024).
- 
+- A [sample OCD file](https://www.misp-project.org/.well-known/open-contributions.json) for the MISP project. 
 
 [^fragmented]: The term *fragmented* is often perceived negatively, suggesting disorder or inefficiency. In open ecosystems, however, fragmentation is largely a **strength**. It reflects diversity, independence, resilience, and experimentation across communities rather than centralized control. The challenge is therefore not to eliminate fragmentation, but to make it discoverable and understandable without reducing its autonomy.
