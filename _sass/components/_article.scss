@@ -7,7 +7,7 @@
 }
 
 .c-article__main {
-  max-width: 116rem;
+  max-width: 100rem;
   margin-right: auto;
   margin-left: auto;
   padding-top: 7.5rem;
@@ -134,6 +134,8 @@
 // cited, so consecutive notes naturally stack instead of overlapping.
 @media (min-width: 1050px) {
   .c-article__main.has-contextual-footnotes {
+    max-width: 116rem;
+
     > *:not(.footnotes) {
       max-width: 76rem;
       margin-right: 0;

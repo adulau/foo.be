@@ -7,6 +7,15 @@
     });
   }
 
+  function insertionPoint(reference) {
+    // Kramdown places a footnote reference inside a paragraph (or another
+    // flow-content element). Putting an <aside> directly beside the <sup>
+    // would create invalid HTML by nesting a sectioning element in a <p>.
+    return reference.closest('p, li, blockquote, dd, dt, figcaption') ||
+      reference.closest('sup') ||
+      reference;
+  }
+
   function createContextualFootnotes() {
     var article = document.querySelector('.c-article__main');
 
@@ -15,6 +24,8 @@
     }
 
     var references = article.querySelectorAll('a.footnote[href^="#"]');
+
+    var lastNoteByInsertionPoint = new Map();
 
     references.forEach(function (reference, index) {
       var targetId = reference.getAttribute('href').slice(1);
@@ -27,7 +38,8 @@
       var note = document.createElement('aside');
       var number = reference.textContent.trim();
       var contextualId = 'contextual-footnote-' + (index + 1);
-      var referenceWrapper = reference.closest('sup') || reference;
+      var point = insertionPoint(reference);
+      var previousNote = lastNoteByInsertionPoint.get(point);
 
       note.className = 'contextual-footnote';
       note.id = contextualId;
@@ -39,7 +51,8 @@
 
       reference.href = '#' + contextualId;
       reference.setAttribute('aria-describedby', contextualId);
-      referenceWrapper.parentNode.insertBefore(note, referenceWrapper.nextSibling);
+      point.parentNode.insertBefore(note, previousNote ? previousNote.nextSibling : point.nextSibling);
+      lastNoteByInsertionPoint.set(point, note);
     });
 
     if (article.querySelector('.contextual-footnote')) {
