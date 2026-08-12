@@ -7,7 +7,7 @@
 }
 
 .c-article__main {
-  max-width: 100rem; // 760px;*/
+  max-width: 116rem;
   margin-right: auto;
   margin-left: auto;
   padding-top: 7.5rem;
@@ -44,5 +44,119 @@
 
   ul {
     margin-left: 2.5rem;
+  }
+
+  // Kramdown footnote references. The endnote list remains a usable fallback
+  // when JavaScript is unavailable.
+  a.footnote {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 1.65rem;
+    height: 1.65rem;
+    margin-left: 0.15rem;
+    padding: 0 0.4rem;
+    border: 1px solid currentColor;
+    border-radius: 1rem;
+    font-size: 1.1rem;
+    font-weight: 700;
+    line-height: 1;
+    text-decoration: none;
+    vertical-align: super;
+  }
+
+  a.footnote:hover,
+  a.footnote:focus {
+    color: $c__white;
+    background: $c__black;
+  }
+
+  .footnotes {
+    margin-top: 5rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba($c__black, 0.2);
+    font-size: 1.5rem;
+
+    &::before {
+      display: block;
+      margin-bottom: 1.5rem;
+      font-size: 1.3rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      content: "Notes";
+    }
+
+    ol {
+      padding-left: 2.5rem;
+    }
+
+    li {
+      margin-bottom: 1rem;
+      padding-left: 0.5rem;
+    }
+
+    p {
+      margin: 0;
+    }
+  }
+
+  .contextual-footnote {
+    display: block;
+    margin: 1.2rem 0;
+    padding: 1.2rem 1.5rem;
+    border-left: 3px solid rgba($c__black, 0.45);
+    color: rgba($c__black, 0.78);
+    background: $c__light-grey;
+    font-size: 1.45rem;
+    line-height: 1.45;
+
+    &::before {
+      margin-right: 0.7rem;
+      font-size: 1.15rem;
+      font-weight: 700;
+      content: attr(data-footnote-number);
+    }
+
+    p {
+      display: inline;
+      margin: 0;
+    }
+  }
+
+  &.has-contextual-footnotes .footnotes {
+    display: none;
+  }
+}
+
+// On wide screens, reserve a quiet left column for notes and keep the main
+// reading measure comfortable. Notes float from the point where they are
+// cited, so consecutive notes naturally stack instead of overlapping.
+@media (min-width: 1050px) {
+  .c-article__main.has-contextual-footnotes {
+    > *:not(.footnotes) {
+      max-width: 76rem;
+      margin-right: 0;
+      margin-left: auto;
+    }
+
+    > blockquote {
+      width: 76rem;
+      margin-left: auto;
+    }
+
+    .contextual-footnote {
+      float: left;
+      clear: left;
+      width: 24rem;
+      margin: 0.4rem 0 1.5rem -28rem;
+      padding: 0.8rem 1.2rem 0.8rem 0;
+      border-top: 1px solid rgba($c__black, 0.25);
+      border-bottom: 0;
+      border-left: 0;
+      background: transparent;
+      font-size: 1.35rem;
+      line-height: 1.4;
+    }
   }
 }
