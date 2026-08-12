@@ -103,6 +103,8 @@
 
   .contextual-footnote {
     display: block;
+    // Keep the start of the note visible when its in-text reference is used.
+    scroll-margin-block-start: 1.5rem;
     margin: 1.2rem 0;
     padding: 1.2rem 1.5rem;
     border-left: 3px solid rgba($c__black, 0.45);
