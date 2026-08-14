@@ -16,12 +16,29 @@
       reference;
   }
 
+  function setScrollOffset(article) {
+    var navigation = document.querySelector('.c-navigation.is-fixed');
+
+    if (!navigation) {
+      return;
+    }
+
+    // Keep a small gap below the navigation and its decorative shadow.
+    var offset = Math.ceil(navigation.getBoundingClientRect().height) + 20;
+    article.style.setProperty('--contextual-footnote-scroll-offset', offset + 'px');
+  }
+
   function createContextualFootnotes() {
     var article = document.querySelector('.c-article__main');
 
     if (!article) {
       return;
     }
+
+    setScrollOffset(article);
+    window.addEventListener('resize', function () {
+      setScrollOffset(article);
+    });
 
     var references = article.querySelectorAll('a.footnote[href^="#"]');
 
