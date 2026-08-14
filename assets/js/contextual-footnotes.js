@@ -16,16 +16,33 @@
       reference;
   }
 
-  function setScrollOffset(article) {
+  function setScrollOffset(article, navigation) {
+    // Keep a small gap below the navigation and its decorative shadow.
+    var offset = Math.ceil(navigation.getBoundingClientRect().height) + 20;
+    article.style.setProperty('--contextual-footnote-scroll-offset', offset + 'px');
+  }
+
+  function trackScrollOffset(article) {
     var navigation = document.querySelector('.c-navigation.is-fixed');
 
     if (!navigation) {
       return;
     }
 
-    // Keep a small gap below the navigation and its decorative shadow.
-    var offset = Math.ceil(navigation.getBoundingClientRect().height) + 20;
-    article.style.setProperty('--contextual-footnote-scroll-offset', offset + 'px');
+    setScrollOffset(article, navigation);
+
+    // Observing the element itself also catches height changes caused by web
+    // fonts or wrapping, neither of which necessarily triggers window.resize.
+    if ('ResizeObserver' in window) {
+      var observer = new window.ResizeObserver(function () {
+        setScrollOffset(article, navigation);
+      });
+      observer.observe(navigation);
+    } else {
+      window.addEventListener('resize', function () {
+        setScrollOffset(article, navigation);
+      });
+    }
   }
 
   function createContextualFootnotes() {
@@ -35,12 +52,13 @@
       return;
     }
 
-    setScrollOffset(article);
-    window.addEventListener('resize', function () {
-      setScrollOffset(article);
-    });
-
     var references = article.querySelectorAll('a.footnote[href^="#"]');
+
+    if (!references.length) {
+      return;
+    }
+
+    trackScrollOffset(article);
 
     var lastNoteByInsertionPoint = new Map();
 
