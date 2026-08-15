@@ -26,9 +26,8 @@
   }
 
   ul {
-        margin: 0.2 em;
-        list-style: square;
-        padding: 0.2 em;
+    padding-left: 2.5rem;
+    list-style: square;
   }
 
   blockquote {
@@ -40,10 +39,6 @@
 
   h1 {
     margin-left: -2rem;
-  }
-
-  ul {
-    margin-left: 2.5rem;
   }
 
   // Kramdown footnote references. The endnote list remains a usable fallback
