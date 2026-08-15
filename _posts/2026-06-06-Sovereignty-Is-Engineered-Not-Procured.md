@@ -13,7 +13,7 @@ The usual answer is that Europe lacks data, capital, talent, or legal room. I do
 
 The capacity is there. The data is there. The technical talent is there. The public-sector problems are real, urgent, and interesting. What is often missing is the will to tackle complex programmes seriously, over time, with teams that are allowed to build, fail, iterate, and take responsibility.
 
-Europe does not need a Palantir clone. It needs the capacity to build strategic software for intelligence and security missions without outsourcing the core of its thinking.
+Europe does not need a Palantir clone and definitely does not want such a proprietary tool. It needs the capacity to build strategic software for intelligence and security missions without outsourcing the core of its thinking.
 
 ![](/assets/cables.jpg)
 
