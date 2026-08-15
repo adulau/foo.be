@@ -30,6 +30,10 @@
     list-style: square;
   }
 
+  ol {
+    padding-left: 2.5rem;
+  }
+
   blockquote {
     margin-left: -2.5rem;
     width: calc(100% + 5rem);
@@ -133,6 +137,10 @@
 // cited, so consecutive notes naturally stack instead of overlapping.
 @media (min-width: 1050px) {
   .c-article__main.has-contextual-footnotes {
+    // Contain tall floated sidenotes so the article's height includes them.
+    // Without a new block formatting context, the footer can begin while a
+    // sidenote is still flowing down the left column.
+    display: flow-root;
     max-width: 116rem;
 
     > *:not(.footnotes) {
