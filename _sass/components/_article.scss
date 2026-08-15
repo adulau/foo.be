@@ -103,8 +103,10 @@
 
   .contextual-footnote {
     display: block;
-    // Keep the start of the note visible when its in-text reference is used.
-    scroll-margin-block-start: 1.5rem;
+    // Leave room for the fixed navigation when a note is opened by its
+    // in-text reference. JavaScript keeps the offset in sync with the actual
+    // navigation height (including wrapped navigation items).
+    scroll-margin-block-start: var(--contextual-footnote-scroll-offset, 8rem);
     margin: 1.2rem 0;
     padding: 1.2rem 1.5rem;
     border-left: 3px solid rgba($c__black, 0.45);
