@@ -135,10 +135,10 @@
 // On wide screens, reserve a quiet left column for notes and keep the main
 // reading measure comfortable. Notes float from the point where they are
 // cited, so consecutive notes naturally stack instead of overlapping.
-// The full two-column layout is 116rem wide, in addition to the article's
-// 2.5rem padding on either side. Keep notes in the article flow until the
-// viewport can accommodate the complete layout so they are never clipped.
-@media (min-width: 1210px) {
+// Keep notes in the article flow on viewports up to 1600px. This avoids the
+// sidenote column being clipped when browser chrome, zoom, or device
+// emulation reduces the usable page width.
+@media (min-width: 1601px) {
   .c-article__main.has-contextual-footnotes {
     // Contain tall floated sidenotes so the article's height includes them.
     // Without a new block formatting context, the footer can begin while a
