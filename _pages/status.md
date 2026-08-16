@@ -5,103 +5,103 @@ permalink: /status/
 ---
 
 # Status and updates from my different sources
-- github.com [adulau closed an issue in misp-taxonomies](https://github.com/MISP/misp-taxonomies/issues/321) @Mon Apr 27 20:59:25 2026
-- github.com [adulau commented on an issue in misp-taxonomies](https://github.com/MISP/misp-taxonomies/issues/321#issuecomment-4330043528) @Mon Apr 27 20:59:23 2026
-- github.com [adulau contributed to MISP/misp-taxonomies](https://github.com/MISP/misp-taxonomies/pull/322) @Mon Apr 27 20:56:24 2026
-- infosec.exchange [Drone and UAV ForensicThis repository is designed to acceler](https://infosec.exchange/@adulau/116477385635427268) @Mon Apr 27 16:30:57 2026
-- github.com [adulau closed an issue in misp-galaxy](https://github.com/MISP/misp-galaxy/issues/451) @Mon Apr 27 14:56:22 2026
-- github.com [adulau commented on an issue in misp-galaxy](https://github.com/MISP/misp-galaxy/issues/451#issuecomment-4327101458) @Mon Apr 27 13:51:32 2026
-- github.com [adulau contributed to MISP/misp-galaxy](https://github.com/MISP/misp-galaxy/pull/1194) @Mon Apr 27 13:51:06 2026
-- github.com [adulau closed an issue in misp-galaxy](https://github.com/MISP/misp-galaxy/issues/421) @Mon Apr 27 13:24:36 2026
-- github.com [adulau commented on an issue in misp-galaxy](https://github.com/MISP/misp-galaxy/issues/421#issuecomment-4326929675) @Mon Apr 27 13:24:34 2026
-- github.com [adulau opened an issue in Vulnogram](https://github.com/Vulnogram/Vulnogram/issues/312) @Mon Apr 27 09:42:13 2026
-- github.com [adulau closed an issue in misp-galaxy](https://github.com/MISP/misp-galaxy/issues/1023) @Mon Apr 27 09:08:16 2026
-- github.com [adulau commented on an issue in misp-galaxy](https://github.com/MISP/misp-galaxy/issues/1023#issuecomment-4325270581) @Mon Apr 27 09:08:15 2026
-- github.com [adulau commented on an issue in misp-galaxy](https://github.com/MISP/misp-galaxy/issues/1192#issuecomment-4325264308) @Mon Apr 27 09:07:11 2026
-- github.com [adulau closed an issue in misp-galaxy](https://github.com/MISP/misp-galaxy/issues/1192) @Mon Apr 27 09:06:26 2026
-- github.com [adulau pushed misp-galaxy](https://github.com/MISP/misp-galaxy/compare/50004cc3e9...7d2ec49a3e) @Mon Apr 27 00:00:00 2026
-- github.com [adulau pushed misp-taxonomies](https://github.com/MISP/misp-taxonomies/compare/eb8803d1ac...36162561c7) @Mon Apr 27 00:00:00 2026
-- github.com [adulau pushed Drone-Forensic](https://github.com/CIRCL/Drone-Forensic/compare/9e08148a47...eb908f618c) @Mon Apr 27 00:00:00 2026
-- github.com [adulau pushed misp-taxonomies](https://github.com/MISP/misp-taxonomies/compare/a21d557020...eb8803d1ac) @Mon Apr 27 00:00:00 2026
-- github.com [adulau pushed cpe-editor](https://github.com/adulau/cpe-editor/compare/66a5252cc7...2560f56b48) @Mon Apr 27 00:00:00 2026
-- github.com [adulau pushed misp-taxonomies](https://github.com/MISP/misp-taxonomies/compare/a21d557020...90cf8b587e) @Mon Apr 27 00:00:00 2026
-- github.com [adulau pushed Drone-Forensic](https://github.com/CIRCL/Drone-Forensic/compare/cfc40cdc76...6d1388f899) @Mon Apr 27 00:00:00 2026
-- github.com [adulau created a branch](https://github.com/MISP/misp-taxonomies/compare/0000000000...a21d557020) @Mon Apr 27 00:00:00 2026
-- github.com [adulau pushed misp-modules](https://github.com/MISP/misp-modules/compare/f1def8a94d...89abdc6855) @Mon Apr 27 00:00:00 2026
-- github.com [adulau created a branch](https://github.com/MISP/misp-galaxy/compare/0000000000...50004cc3e9) @Mon Apr 27 00:00:00 2026
-- github.com [adulau pushed misp-galaxy](https://github.com/MISP/misp-galaxy/compare/50004cc3e9...20529c5500) @Mon Apr 27 00:00:00 2026
-- github.com [adulau pushed Drone-Forensic](https://github.com/CIRCL/Drone-Forensic/compare/6d1388f899...9e08148a47) @Mon Apr 27 00:00:00 2026
-- infosec.exchange [RE: https://social.circl.lu/@gcve/116472772889791098After th](https://infosec.exchange/@adulau/116472788659053242) @Sun Apr 26 21:01:53 2026
-- paperbay.org [So many people don&#x27;t understand how good the AGPLv3 license ](https://paperbay.org/@a/116471271316006182) @Sun Apr 26 14:36:00 2026
-- infosec.exchange [We are cleaning various code base including MISP. I&#x27;m wonder](https://infosec.exchange/@adulau/116464092845094617) @Sat Apr 25 08:10:26 2026
-- infosec.exchange [Some updates on the MISP Galaxy website:https://www.misp-gal](https://infosec.exchange/@adulau/116461866924132328) @Fri Apr 24 22:44:21 2026
-- infosec.exchange [Hackathon.lu 2026, held in Luxembourg on 14–15 April 2026, o](https://infosec.exchange/@adulau/116460354643084356) @Fri Apr 24 16:19:45 2026
-- infosec.exchange [Security Intelligence Repository with RULEZETBuilding a Trus](https://infosec.exchange/@adulau/116443276767294655) @Tue Apr 21 15:56:37 2026
-- git.foo.be [adulau synced commits to master at adulau/ssldump from mirror](https://git.foo.be/adulau/ssldump/compare/d106cb2e71cd1bf1c1aa53150f4ebcedde078570...7c824bede95eff51c8808b47b33aa36fad0f3b9f) @Mon Apr 20 23:01:27 2026
-- git.foo.be [adulau synced commits to dependabot/github_actions/github/codeql-action-4.35.2 at adulau/ssldump from mirror](https://git.foo.be/adulau/ssldump/src/dependabot/github_actions/github/codeql-action-4.35.2) @Mon Apr 20 06:41:27 2026
-- infosec.exchange [Life is full of paradoxes. We spend countless time discussin](https://infosec.exchange/@adulau/116430030483613876) @Sun Apr 19 07:47:55 2026
-- paperbay.org [dark stories#blackandwhite #monochrome #photography #urbex #](https://paperbay.org/@a/116416437822688566) @Thu Apr 16 22:11:08 2026
-- www.flickr.com [dark stories](https://www.flickr.com/photos/adulau/55212078478/) @Thu Apr 16 22:09:50 2026
-- git.foo.be [adulau synced commits to master at adulau/ssldump from mirror](https://git.foo.be/adulau/ssldump/compare/b947391dfd1a17aedc7f24abf60dd1e3726d957c...d106cb2e71cd1bf1c1aa53150f4ebcedde078570) @Thu Apr 16 12:51:23 2026
-- infosec.exchange [Heureux de lire un article qui comprend bien les enjeux de l](https://infosec.exchange/@adulau/116410665607573736) @Wed Apr 15 21:43:11 2026
-- git.foo.be [adulau synced and deleted reference refs/tags/dependabot/github_actions/actions/upload-artifact-7.0.1 at adulau/ssldump from mirror](https://git.foo.be/adulau/ssldump) @Tue Apr 14 20:01:28 2026
-- git.foo.be [adulau synced commits to codex/review-ssldump-code-for-bugs-and-security at adulau/ssldump from mirror](https://git.foo.be/adulau/ssldump/src/codex/review-ssldump-code-for-bugs-and-security) @Tue Apr 14 20:01:28 2026
-- git.foo.be [adulau synced commits to codex/review-tcp-reassembly-code-and-practices at adulau/ssldump from mirror](https://git.foo.be/adulau/ssldump/src/codex/review-tcp-reassembly-code-and-practices) @Tue Apr 14 20:01:28 2026
-- git.foo.be [adulau synced commits to master at adulau/ssldump from mirror](https://git.foo.be/adulau/ssldump/compare/b12dad21141a8a09b59a1bbc05e193f863297e10...b947391dfd1a17aedc7f24abf60dd1e3726d957c) @Tue Apr 14 20:01:28 2026
-- git.foo.be [adulau synced commits to dependabot/github_actions/actions/upload-artifact-7.0.1 at adulau/ssldump from mirror](https://git.foo.be/adulau/ssldump/src/dependabot/github_actions/actions/upload-artifact-7.0.1) @Mon Apr 13 11:21:26 2026
-- paperbay.org [librairie, Arles 2017#photography #photo #librairie If you s](https://paperbay.org/@a/116392691519524570) @Sun Apr 12 17:32:08 2026
-- www.flickr.com [Librairie](https://www.flickr.com/photos/adulau/55201902642/) @Sun Apr 12 17:24:32 2026
-- infosec.exchange [Ransomlook 2.0 &quot;Mira&quot; Released - Observability, Crypto Trace](https://infosec.exchange/@adulau/116392507355755609) @Sun Apr 12 16:45:18 2026
-- paperbay.org [structural hope#photography #photo #monochrome](https://paperbay.org/@a/116388285445921538) @Sat Apr 11 22:51:36 2026
-- www.flickr.com [structural hope](https://www.flickr.com/photos/adulau/55200427337/) @Sat Apr 11 22:50:02 2026
-- infosec.exchange [Excited to share that the MITRE Fight Fraud Framework™ (F3) ](https://infosec.exchange/@adulau/116387764708682267) @Sat Apr 11 20:39:11 2026
-- git.foo.be [adulau synced commits to copilot/fix-github-pages-build-failure at adulau/the-art-of-pivoting from mirror](https://git.foo.be/adulau/the-art-of-pivoting/src/copilot/fix-github-pages-build-failure) @Sat Apr 11 18:31:29 2026
-- git.foo.be [adulau synced commits to copilot/fix-pages-build-workflow at adulau/the-art-of-pivoting from mirror](https://git.foo.be/adulau/the-art-of-pivoting/commit/bd780791094debbe83a47ac50eb3174b85e49831) @Sat Apr 11 18:31:29 2026
-- git.foo.be [adulau synced commits to main at adulau/the-art-of-pivoting from mirror](https://git.foo.be/adulau/the-art-of-pivoting/compare/ce03971cacda5ac88832fc8154efe97c998b2e1e...f28dfe4f8a1165a5ce61762063b69175516569eb) @Sat Apr 11 18:31:29 2026
-- git.foo.be [adulau synced commits to master at adulau/threat-intelligence.eu from mirror](https://git.foo.be/adulau/threat-intelligence.eu/compare/f309869393ebb6e08244752b4e3f551994e73d81...8633f62243885e41f3cb2a3a0a7ac86f6b018b2a) @Sat Apr 11 18:31:29 2026
-- git.foo.be [adulau synced commits to codex/fix-white-text-and-increase-area-size at adulau/threat-intelligence.eu from mirror](https://git.foo.be/adulau/threat-intelligence.eu/src/codex/fix-white-text-and-increase-area-size) @Sat Apr 11 18:31:28 2026
-- git.foo.be [adulau synced commits to codex/remove-drop-shadow-from-content-box at adulau/threat-intelligence.eu from mirror](https://git.foo.be/adulau/threat-intelligence.eu/src/codex/remove-drop-shadow-from-content-box) @Sat Apr 11 18:31:28 2026
-- git.foo.be [adulau synced commits to codex/fix-text-color-and-layout-issues at adulau/threat-intelligence.eu from mirror](https://git.foo.be/adulau/threat-intelligence.eu/src/codex/fix-text-color-and-layout-issues) @Sat Apr 11 18:31:28 2026
-- git.foo.be [adulau synced commits to codex/task-title at adulau/threat-intelligence.eu from mirror](https://git.foo.be/adulau/threat-intelligence.eu/src/codex/task-title) @Sat Apr 11 18:31:28 2026
-- git.foo.be [adulau synced commits to codex/enhance-website-design-and-usability at adulau/threat-intelligence.eu from mirror](https://git.foo.be/adulau/threat-intelligence.eu/src/codex/enhance-website-design-and-usability) @Sat Apr 11 18:31:28 2026
-- git.foo.be [adulau synced commits to main at adulau/the-art-of-pivoting from mirror](https://git.foo.be/adulau/the-art-of-pivoting/compare/e5905b9a78e9c0645dfa57dd30ca49bf2788c5cc...ce03971cacda5ac88832fc8154efe97c998b2e1e) @Sat Apr 11 10:21:34 2026
-- git.foo.be [adulau synced new reference copilot/fix-pages-build-workflow to adulau/the-art-of-pivoting from mirror](https://git.foo.be/adulau/the-art-of-pivoting/src/copilot/fix-pages-build-workflow) @Sat Apr 11 10:21:33 2026
-- infosec.exchange [FSL and BSL belong on any list of false-promise licenses:htt](https://infosec.exchange/@adulau/116378559144693164) @Fri Apr 10 05:38:05 2026
-- infosec.exchange [New projects added for the hackathon of next week such as mi](https://infosec.exchange/@adulau/116375727504560722) @Thu Apr  9 17:37:57 2026
-- infosec.exchange [Once again, an important standard is behind a paywall: prEN ](https://infosec.exchange/@adulau/116369062169628105) @Wed Apr  8 13:22:53 2026
-- infosec.exchange [Working on a prototype for collaborative CPE editing, includ](https://infosec.exchange/@adulau/116362947105167778) @Tue Apr  7 11:27:44 2026
-- infosec.exchange [Just submitted - “GCVE Backstage: BCPs, Tooling, and Hackath](https://infosec.exchange/@adulau/116357861781569111) @Mon Apr  6 13:54:28 2026
-- infosec.exchange [rss-tool 1.2 release adds Markdown Journals and Calendar Hea](https://infosec.exchange/@adulau/116356821660482956) @Mon Apr  6 09:29:57 2026
-- paperbay.org [Influence – Salle 717A est une brève incursion cyberpunk, en](https://paperbay.org/@a/116356537624749295) @Mon Apr  6 08:17:43 2026
-- paperbay.org [the landing#photography #blackandwhite #photo #nature](https://paperbay.org/@a/116356162734765143) @Mon Apr  6 06:42:23 2026
-- www.flickr.com [the landing](https://www.flickr.com/photos/adulau/55190628484/) @Mon Apr  6 06:39:41 2026
-- infosec.exchange [What really impresses me is the creativity still thriving ar](https://infosec.exchange/@adulau/116353835352291937) @Sun Apr  5 20:50:30 2026
-- infosec.exchange [Another cut in CISA budget for 2027, 707 million less.#cisa ](https://infosec.exchange/@adulau/116345225061171676) @Sat Apr  4 08:20:47 2026
-- infosec.exchange [For hackathon.lu, I was initially unsure what my main projec](https://infosec.exchange/@adulau/116342754019845361) @Fri Apr  3 21:52:22 2026
-- infosec.exchange [By the way, if you want to join us at hackathon.lu 14-15 Apr](https://infosec.exchange/@adulau/116341836293546599) @Fri Apr  3 17:58:59 2026
+- github.com [adulau contributed to adulau/foo.be](https://github.com/adulau/foo.be/pull/10) @Sun Aug 16 06:37:10 2026
+- github.com [adulau pushed foo.be](https://github.com/adulau/foo.be/compare/df57b3102b...63eac9de2e) @Sun Aug 16 00:00:00 2026
+- github.com [adulau pushed foo.be](https://github.com/adulau/foo.be/compare/df57b3102b...0742d7267f) @Sun Aug 16 00:00:00 2026
+- github.com [adulau created a branch](https://github.com/adulau/foo.be/compare/0000000000...df57b3102b) @Sun Aug 16 00:00:00 2026
+- github.com [adulau contributed to adulau/foo.be](https://github.com/adulau/foo.be/pull/9) @Sat Aug 15 22:53:39 2026
+- github.com [adulau contributed to adulau/foo.be](https://github.com/adulau/foo.be/pull/8) @Sat Aug 15 22:47:13 2026
+- paperbay.org [How mature is this repository? My long quest for open-source](https://paperbay.org/@a/117100408224584713) @Sat Aug 15 17:13:48 2026
+- github.com [adulau starred jdejaegh/irm-kmi-api](https://github.com/jdejaegh/irm-kmi-api) @Sat Aug 15 16:57:06 2026
+- github.com [adulau released v1.0.0 at adulau/osstrl](https://github.com/adulau/osstrl/releases/tag/v1.0.0) @Sat Aug 15 16:34:16 2026
+- www.flickr.com [the ghost of Arles](https://www.flickr.com/photos/adulau/55465920275/) @Sat Aug 15 16:27:16 2026
+- github.com [adulau contributed to adulau/foo.be](https://github.com/adulau/foo.be/pull/7) @Sat Aug 15 11:03:37 2026
+- github.com [adulau contributed to adulau/foo.be](https://github.com/adulau/foo.be/pull/6) @Sat Aug 15 10:29:19 2026
+- www.flickr.com [disconnected](https://www.flickr.com/photos/adulau/55465192034/) @Sat Aug 15 10:02:36 2026
+- github.com [adulau pushed foo.be](https://github.com/adulau/foo.be/compare/fc1dfd1ddc...2f75e69468) @Sat Aug 15 00:00:00 2026
+- github.com [adulau pushed foo.be](https://github.com/adulau/foo.be/compare/04f7303cd4...fd83792479) @Sat Aug 15 00:00:00 2026
+- github.com [adulau pushed osstrl](https://github.com/adulau/osstrl/compare/2f1ad4b497...07d9859b69) @Sat Aug 15 00:00:00 2026
+- github.com [adulau pushed foo.be](https://github.com/adulau/foo.be/compare/fc1dfd1ddc...bbf966233f) @Sat Aug 15 00:00:00 2026
+- github.com [adulau pushed foo.be](https://github.com/adulau/foo.be/compare/13b12d7ce1...fc1dfd1ddc) @Sat Aug 15 00:00:00 2026
+- github.com [adulau pushed foo.be](https://github.com/adulau/foo.be/compare/fd83792479...23cd5b37e0) @Sat Aug 15 00:00:00 2026
+- github.com [adulau pushed foo.be](https://github.com/adulau/foo.be/compare/bbf966233f...04f7303cd4) @Sat Aug 15 00:00:00 2026
+- github.com [adulau pushed foo.be](https://github.com/adulau/foo.be/compare/fd83792479...df57b3102b) @Sat Aug 15 00:00:00 2026
+- github.com [adulau created a branch](https://github.com/adulau/foo.be/compare/0000000000...04f7303cd4) @Sat Aug 15 00:00:00 2026
+- github.com [adulau pushed foo.be](https://github.com/adulau/foo.be/compare/04f7303cd4...a5d3f6e522) @Sat Aug 15 00:00:00 2026
+- github.com [adulau created a branch](https://github.com/adulau/foo.be/compare/0000000000...fc1dfd1ddc) @Sat Aug 15 00:00:00 2026
+- github.com [adulau created a branch](https://github.com/adulau/foo.be/compare/0000000000...fd83792479) @Sat Aug 15 00:00:00 2026
+- www.flickr.com [finding your way](https://www.flickr.com/photos/adulau/55464487089/) @Fri Aug 14 23:31:05 2026
+- www.flickr.com [searching](https://www.flickr.com/photos/adulau/55462193629/) @Thu Aug 13 21:55:54 2026
+- www.flickr.com [alone in the dark](https://www.flickr.com/photos/adulau/55462182709/) @Thu Aug 13 21:49:09 2026
+- infosec.exchange [If you are curious about (nearly) everything we did the past](https://infosec.exchange/@adulau/117088876038119887) @Thu Aug 13 16:21:01 2026
+- infosec.exchange [vulnerability-lookup 6.0 will be released this week with man](https://infosec.exchange/@adulau/117083266079171792) @Wed Aug 12 16:34:19 2026
+- infosec.exchange [From a research paper to running open-source code in just a ](https://infosec.exchange/@adulau/117076198484622585) @Tue Aug 11 10:36:56 2026
+- vulnerability.circl.lu [natjack  A NEW ATTACK CLASS AGAINST NETWORK INFRASTRUCTURE DEVICES](https://vulnerability.circl.lu/bundle/6e833a25-b741-4cf7-9e48-1ecedcde12c9) @Mon Aug 10 14:32:53 2026
+- vulnerability.circl.lu [Debian - [SECURITY] [DSA 6423-1] kitty security update](https://vulnerability.circl.lu/bundle/d517fb59-dc35-45a9-8c20-83397659735e) @Sun Aug  9 19:21:53 2026
+- infosec.exchange [Working on a first super beta implementation of @gcve BCP-11](https://infosec.exchange/@adulau/117064824797634799) @Sun Aug  9 10:24:28 2026
+- infosec.exchange [Pretty cool idea from @nyanbinary  - a bot to analyse fucked](https://infosec.exchange/@adulau/117064596614605392) @Sun Aug  9 09:26:26 2026
+- paperbay.org [Maybe the AI bots trying to find endlessly new content on my](https://paperbay.org/@a/117061225825974932) @Sat Aug  8 19:09:12 2026
+- infosec.exchange [Recommendations on Naming Threat Actors.The MISP standard ha](https://infosec.exchange/@adulau/117050518473735330) @Thu Aug  6 21:46:11 2026
+- infosec.exchange [MISP Galaxy Threat Actor Explorer v1.0.0 releasedhttps://git](https://infosec.exchange/@adulau/117039131871570160) @Tue Aug  4 21:30:25 2026
+- paperbay.org [middle cliff#cliff #photography #photo #leica #monochrome](https://paperbay.org/@a/117037784201949414) @Tue Aug  4 15:47:41 2026
+- www.flickr.com [middle cliff](https://www.flickr.com/photos/adulau/55442764695/) @Tue Aug  4 15:44:01 2026
+- www.flickr.com [is it you?](https://www.flickr.com/photos/adulau/55439777277/) @Mon Aug  3 21:25:22 2026
+- infosec.exchange [A standalone, browser-only HTML/JavaScript application for e](https://infosec.exchange/@adulau/117032778835516631) @Mon Aug  3 18:34:45 2026
+- paperbay.org [on the nature of day light#photography #photo #streetphotogr](https://paperbay.org/@a/117032331965714031) @Mon Aug  3 16:41:06 2026
+- www.flickr.com [On the nature of day light](https://www.flickr.com/photos/adulau/55440276959/) @Mon Aug  3 16:30:36 2026
+- infosec.exchange [Have you seen any evidence of the famous « collect encrypt d](https://infosec.exchange/@adulau/117031672024729330) @Mon Aug  3 13:53:17 2026
+- paperbay.org [invader above#invader #photography #streetphotography](https://paperbay.org/@a/117030904867874509) @Mon Aug  3 10:38:11 2026
+- www.flickr.com [invader above](https://www.flickr.com/photos/adulau/55439376406/) @Mon Aug  3 10:03:51 2026
+- www.flickr.com [summer thinking](https://www.flickr.com/photos/adulau/55438395671/) @Sun Aug  2 22:39:13 2026
+- www.flickr.com [the face of street art](https://www.flickr.com/photos/adulau/55438736515/) @Sun Aug  2 22:20:16 2026
+- www.flickr.com [Cyanotype of endless waves](https://www.flickr.com/photos/adulau/55437255345/) @Sun Aug  2 09:18:47 2026
+- infosec.exchange [Sightings have long been a major topic of discussion in the ](https://infosec.exchange/@adulau/117019273349466233) @Sat Aug  1 09:20:08 2026
+- paperbay.org [confusing mind#photography #photo #monochrome #nature](https://paperbay.org/@a/117019008252709803) @Sat Aug  1 08:12:43 2026
+- www.flickr.com [confusing mind](https://www.flickr.com/photos/adulau/55433679937/) @Sat Aug  1 08:11:28 2026
+- paperbay.org [away from us#photography #landscape #seascape #sheep #monoch](https://paperbay.org/@a/117009986181391003) @Thu Jul 30 17:58:17 2026
+- paperbay.org [fighting radio waves#photography #monochrome #water #reflet](https://paperbay.org/@a/117009943379753820) @Thu Jul 30 17:47:24 2026
+- www.flickr.com [away from us](https://www.flickr.com/photos/adulau/55431178529/) @Thu Jul 30 17:44:46 2026
+- www.flickr.com [fighting the radio waves](https://www.flickr.com/photos/adulau/55431089438/) @Thu Jul 30 17:25:30 2026
+- infosec.exchange [A new version of the BCP-11 &quot;Community Contribution Fragment](https://infosec.exchange/@adulau/117007455705131976) @Thu Jul 30 07:14:45 2026
+- vulnerability.circl.lu [VMSA-2026-0006: VMware ESX, vCenter, Workstation, and Fusion updates address multiple vulnerabilities (CVE-2026-59309, CVE-2026-59310, CVE-2026-47876, CVE-2026-41703, CVE-2026-41709)](https://vulnerability.circl.lu/bundle/425eef6e-5590-4b78-be9c-a1f4a30adda1) @Thu Jul 30 07:11:30 2026
+- www.flickr.com [Cannot be so beautiful](https://www.flickr.com/photos/adulau/55428196517/) @Wed Jul 29 22:45:35 2026
+- paperbay.org [endless waves#photography #seascape #landscape #monochrome #](https://paperbay.org/@a/117004158726962343) @Wed Jul 29 17:16:17 2026
+- www.flickr.com [endless waves](https://www.flickr.com/photos/adulau/55428504791/) @Wed Jul 29 17:11:20 2026
+- paperbay.org [&quot;General Resolution: LLM usage in Debian&quot; When people don’t ](https://paperbay.org/@a/117003780810058139) @Wed Jul 29 15:40:10 2026
+- paperbay.org [endless beauty#photography #photo #monochrome](https://paperbay.org/@a/117003709196986756) @Wed Jul 29 15:21:58 2026
+- www.flickr.com [endless loneliness](https://www.flickr.com/photos/adulau/55428282011/) @Wed Jul 29 15:18:14 2026
+- paperbay.org [the details of your life.#photography #monochrome #photo #na](https://paperbay.org/@a/117002649105230957) @Wed Jul 29 10:52:22 2026
+- www.flickr.com [urban police](https://www.flickr.com/photos/adulau/55426822367/) @Wed Jul 29 10:14:52 2026
+- www.flickr.com [the details of our life](https://www.flickr.com/photos/adulau/55427896303/) @Wed Jul 29 10:02:36 2026
+- paperbay.org [urban life#photography #urban #photo #bynight](https://paperbay.org/@a/117002391127821877) @Wed Jul 29 09:46:46 2026
+- vulnerability.circl.lu [Check Point Blog - Security Advisory – Action Required – July 2026 Security Update](https://vulnerability.circl.lu/bundle/14fdbae9-44b1-4641-aab5-41c9e2d0417d) @Wed Jul 29 09:40:30 2026
+- paperbay.org [a better life#bird #flying #photography #photo](https://paperbay.org/@a/116998616171042570) @Tue Jul 28 17:46:44 2026
+- paperbay.org [beer for everyone#photography #photo #sleep #sleeping](https://paperbay.org/@a/116998193229707691) @Tue Jul 28 15:59:11 2026
+- paperbay.org [bora bora ou bora vocalTu crées ton île, et tu l&#x27;évaste au m](https://paperbay.org/@a/116998184746246564) @Tue Jul 28 15:57:01 2026
+- paperbay.org [puffin society#puffin #photography #blackandwhitephotography](https://paperbay.org/@a/116996936553587934) @Tue Jul 28 10:39:35 2026
+- infosec.exchange [The Radio Image Framing Protocol (RIFP) 1.0 is an experiment](https://infosec.exchange/@adulau/116996698374240077) @Tue Jul 28 09:39:01 2026
+- infosec.exchange [Pivotick is an open-source network graph library to facilita](https://infosec.exchange/@adulau/116993846725032921) @Mon Jul 27 21:33:48 2026
+- infosec.exchange [So finally Kimi-k3 is not really open-sourcehttps://huggingf](https://infosec.exchange/@adulau/116993220762648961) @Mon Jul 27 18:54:37 2026
+- infosec.exchange [The GCVE Lab is an open space for experimenting with new ide](https://infosec.exchange/@adulau/116985613599250992) @Sun Jul 26 10:40:01 2026
+- infosec.exchange [Wireshark for the web (webasm)Open, dissect and analyse .pca](https://infosec.exchange/@adulau/116980286303853469) @Sat Jul 25 12:05:13 2026
+- paperbay.org [« Protecting our FLOSS commons from LLMs »Are we going back ](https://paperbay.org/@a/116979541287534991) @Sat Jul 25 08:55:45 2026
+- paperbay.org [The seven layers of perspective.#photography #nb #photo #bla](https://paperbay.org/@a/116976632788717111) @Fri Jul 24 20:36:04 2026
+- paperbay.org [Is there somewhere a good open source software in Python to ](https://paperbay.org/@a/116973920752348157) @Fri Jul 24 09:06:22 2026
+- infosec.exchange [I don’t like playing the futurologist, but after seeing AI c](https://infosec.exchange/@adulau/116934780073943206) @Fri Jul 17 11:12:23 2026
+- vulnerability.circl.lu [CVE-2026-55040: Microsoft SharePoint JWT Token Authentication Bypass (FIXED)](https://vulnerability.circl.lu/bundle/827a9039-8ff0-43ae-9974-e45310719740) @Wed Jul 15 22:30:24 2026
+- infosec.exchange [The first version of tempolocus, v1.0.0, is out.tempolocus a](https://infosec.exchange/@adulau/116897442051247587) @Fri Jul 10 20:56:50 2026
+- infosec.exchange [We are exploring some ambitious ideas around reducing extern](https://infosec.exchange/@adulau/116885011404205063) @Wed Jul  8 16:15:33 2026
+- vulnerability.circl.lu [Unifi - Security Advisory Bulletin 066](https://vulnerability.circl.lu/bundle/ebad18a5-251f-49a4-b877-c63995fd13a6) @Wed Jul  8 12:01:21 2026
+- infosec.exchange [We started rulezet project after identifying a clear gap in ](https://infosec.exchange/@adulau/116883328255192714) @Wed Jul  8 09:07:30 2026
+- vulnerability.circl.lu [CitrixBleed To Infinity And Beyond (Citrix NetScaler Pre-Auth Memory Overread CVE-2026-8451)](https://vulnerability.circl.lu/bundle/ecf78090-6993-45d3-aa99-c6de905a5e7a) @Wed Jul  1 08:59:26 2026
+- vulnerability.circl.lu [Remote Code Execution and Cross-Site Scripting in pgAdmin 4 Can Be Exploited to Execute Arbitrary Commands and Exfiltrate Database Credentials. Patch Immediately! | CCB Belgium](https://vulnerability.circl.lu/bundle/8cdd16ce-588c-4c14-94dc-9e607f48b9c7) @Tue Jun 23 11:07:30 2026
+- vulnerability.circl.lu [CPE is missing](https://vulnerability.circl.lu/comment/c6269290-9208-4a81-a4a3-9c99d323079c) @Fri Jun 12 07:52:41 2026
+- vulnerability.circl.lu [Security Advisory Ivanti Sentry (CVE-2026-10520, CVE-2026-10523)](https://vulnerability.circl.lu/bundle/536dbd2e-9793-4c4b-bc54-a21fd7e60e65) @Wed Jun 10 05:44:07 2026
+- vulnerability.circl.lu [NEWS for rsync 3.4.3 (20 May 2026)](https://vulnerability.circl.lu/bundle/e7759270-c4f2-4aa0-a716-96c00d40f0a0) @Mon Jun  8 07:22:26 2026
+- vulnerability.circl.lu [Wolves in the Repository: A Software Engineering Analysis of the XZ Utils Supply Chain Attack](https://vulnerability.circl.lu/comment/c633e2b6-9cb5-4e6e-ad24-d425f4887b8e) @Tue Jun  2 05:35:59 2026
+- vulnerability.circl.lu [CVE-2026-0300 PAN-OS: Unauthenticated user initiated Buffer Overflow Vulnerability in User-ID™ Authentication Portal](https://vulnerability.circl.lu/comment/5891d215-6f38-4734-8904-101fe25c4e26) @Wed May  6 13:47:13 2026
+- vulnerability.circl.lu [Bleeding Llama: Critical Unauthenticated Memory Leak in Ollama - cyera.com article](https://vulnerability.circl.lu/comment/f6d41719-7e76-40c7-ac12-d7d70f2ac1db) @Wed May  6 07:28:08 2026
+- vulnerability.circl.lu [Deny alg_socket to Containers with SELinux to Mitigate CVE‑2026‑31431](https://vulnerability.circl.lu/comment/5e9c3f17-4570-484f-9113-fab5ca85b815) @Fri May  1 13:15:18 2026
+- vulnerability.circl.lu [Microsoft WSL is also vulnerable](https://vulnerability.circl.lu/comment/22701e2f-15d4-44db-9df9-7e7cdb26d102) @Thu Apr 30 16:40:35 2026
+- vulnerability.circl.lu [Quick remediation](https://vulnerability.circl.lu/comment/015dc7f6-33e1-49b4-af56-d27f0111165a) @Thu Apr 30 11:07:37 2026
 - vulnerability.circl.lu [K000160486: Indicators of Compromise for c05d5254](https://vulnerability.circl.lu/comment/ccbb9ed0-997c-47b7-b3c1-0758ceb74102) @Mon Mar 30 08:57:25 2026
-- vulnerability.circl.lu [Please, We Beg, Just One Weekend Free Of Appliances (Citrix NetScaler CVE-2026-3055 Memory Overread Part 2)](https://vulnerability.circl.lu/comment/596d1296-f91f-4f84-a3e6-03aa10878635) @Mon Mar 30 07:20:52 2026
-- vulnerability.circl.lu [Seems to be exploited and confirmed by Defused](https://vulnerability.circl.lu/comment/fdd15828-339e-4711-a71a-6b92792a4aaf) @Sun Mar 29 18:36:59 2026
-- vulnerability.circl.lu [Vulnerability CVE-2026-21992 in Oracle Identity Manager and Oracle Web Services Manager](https://vulnerability.circl.lu/bundle/a718c241-f3e8-4cc6-b3dc-f71d5790b014) @Mon Mar 23 16:16:00 2026
-- vulnerability.circl.lu [NetScaler ADC and NetScaler Gateway Security Bulletin for CVE-2026-3055 and CVE-2026-4368](https://vulnerability.circl.lu/bundle/1ae9c3df-c65f-4755-b3a9-4d76f8c0e772) @Mon Mar 23 16:09:23 2026
-- vulnerability.circl.lu [Critical RCE Vulnerability reported in Windchill](https://vulnerability.circl.lu/bundle/47124bb2-b34f-47c1-b0a3-1073423a56ef) @Mon Mar 23 12:31:11 2026
-- vulnerability.circl.lu [The Most Organized Threat Actors Use Your ITSM (BMC FootPrints Pre-Auth Remote Code Execution Chains)](https://vulnerability.circl.lu/bundle/8b291831-2785-48c5-bce6-8e1ad5925260) @Thu Mar 19 20:03:35 2026
-- paperbay.org [We found the cyber Amish :https://codeberg.org/small-hack/op](https://paperbay.org/@a/116244348671914689) @Tue Mar 17 11:46:36 2026
-- paperbay.org [I just updated the introduction of the Open Contributions De](https://paperbay.org/@a/116232316730892236) @Sun Mar 15 08:46:43 2026
-- www.flickr.com [A view of life](https://www.flickr.com/photos/adulau/55148693275/) @Sun Mar 15 08:02:00 2026
-- paperbay.org [Why using a MCP when you have a clean OpenAPI with consisten](https://paperbay.org/@a/116228659274941993) @Sat Mar 14 17:16:34 2026
-- www.flickr.com [regarde les murs](https://www.flickr.com/photos/adulau/55147600390/) @Sat Mar 14 17:04:55 2026
-- paperbay.org [picture of life#photography #photo #drawing #blackandwhite #](https://paperbay.org/@a/116228534838322935) @Sat Mar 14 16:44:56 2026
-- www.flickr.com [picture of life](https://www.flickr.com/photos/adulau/55147191026/) @Sat Mar 14 16:43:40 2026
-- www.flickr.com [last fight](https://www.flickr.com/photos/adulau/55147327278/) @Sat Mar 14 16:26:41 2026
-- paperbay.org [Good old memories#photography #photo #photographer #people #](https://paperbay.org/@a/116228427396939009) @Sat Mar 14 16:17:36 2026
-- www.flickr.com [good old memories](https://www.flickr.com/photos/adulau/55147310088/) @Sat Mar 14 16:13:15 2026
-- paperbay.org [4625 kHz is not buzzing anymore 😨](https://paperbay.org/@a/116226639812857155) @Sat Mar 14 08:43:00 2026
-- vulnerability.circl.lu [Vulnerabilities Resolved in Veeam Backup &amp; Replication 12.3.2.4465](https://vulnerability.circl.lu/bundle/08c1bcc5-abc2-4fd7-8a14-32dffe5c9afc) @Fri Mar 13 11:04:10 2026
-- vulnerability.circl.lu [Lantronix EDS3000PS and EDS5000](https://vulnerability.circl.lu/bundle/49b900ec-633f-4111-a614-2dc8b0b77752) @Wed Mar 11 11:00:58 2026
-- paperbay.org [external hope, Belgium 2026#reflet #photography #photographi](https://paperbay.org/@a/116195839626509496) @Sun Mar  8 22:10:06 2026
-- www.flickr.com [external hope](https://www.flickr.com/photos/adulau/55136578221/) @Sun Mar  8 22:06:56 2026
-- paperbay.org [I just stopped my personal @forgejo due to the AI bot (with ](https://paperbay.org/@a/116192859559399355) @Sun Mar  8 09:32:14 2026
-- paperbay.org [the eyes of the street, Paris 2026#paris #streetart #graffit](https://paperbay.org/@a/116192659929139585) @Sun Mar  8 08:41:28 2026
-- www.flickr.com [the eyes of the street](https://www.flickr.com/photos/adulau/55135419458/) @Sun Mar  8 08:38:28 2026
-- paperbay.org [paris style 2026#paris #streetphotography #street #photograp](https://paperbay.org/@a/116192566270979887) @Sun Mar  8 08:17:39 2026

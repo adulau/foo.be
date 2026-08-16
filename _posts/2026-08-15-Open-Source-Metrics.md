@@ -617,13 +617,13 @@ The interesting challenge is therefore not defining another list of metrics.
 
 The challenge is deciding:
 
-1. what can be collected automatically;
-2. what can be collected reliably;
-3. what actually means something;
-4. how metrics should be normalized;
-5. how metrics should be weighted;
-6. what information should remain explicitly **unknown**;
-7. and what combinations of evidence are required before claiming a higher level.
+- what can be collected automatically;
+- what can be collected reliably;
+- what actually means something;
+- how metrics should be normalized;
+- how metrics should be weighted;
+- what information should remain explicitly **unknown**;
+- and what combinations of evidence are required before claiming a higher level.
 
 This last point is important.
 
@@ -702,9 +702,7 @@ The first result should encourage investigation rather than confidence.
 
 ## Repository evidence and asserted evidence
 
-A possible next step for OSSTRL would be to use two separate evidence channels.
-
-The first one remains completely automatic:
+A possible next step for OSSTRL would be to use two separate evidence channels. The first one remains completely automatic:
 
 ```text
 GitHub/GitLab/forge
@@ -745,7 +743,7 @@ The distinction would remain explicit:
 
 This is similar in spirit to the distinction implicit in initiatives such as the OpenSSF Best Practices programme, where some evidence can be automatically checked while other properties must be declared by the project.[^best-practices]
 
-That could bring OSSTRL closer to actual technology readiness without pretending that a GitHub API contains information it simply doesn't have.
+That could bring OSSTRL closer to actual technology readiness without pretending that a GitHub API contains information it simply doesn't have. But the reality is many projects won't create a YAML file with the ddetails and why I kept OSSTRL[^osstrl] as is.
 
 ## Different metrics for different questions
 
@@ -832,19 +830,11 @@ Look at:
 
 ### Is it ready for my use case?
 
-And this one is almost impossible to answer generically.
-
-A project can be perfectly mature and still be the wrong software for your requirements.
-
-This is why there is probably no meaningful universal ranking of all open-source projects.
+And this one is almost impossible to answer generically. A project can be perfectly mature and still be the wrong software for your requirements. This is why there is probably no meaningful universal ranking of all open-source projects.
 
 ## No magic score
 
-I don't think OSSTRL will ever provide an objectively correct answer.
-
-And I don't think it should.
-
-There is probably no universal formula where:
+I don't think OSSTRL will ever provide an objectively correct answer.  And I don't think it should. There is probably no universal formula where:
 
 ```text
 42 contributors
@@ -854,19 +844,13 @@ There is probably no universal formula where:
 = mature open-source project
 ```
 
-Different software has different needs.
+Different software has different needs. Linux, SQLite, a Python library, a Kubernetes operator, a desktop application and a twenty-line Unix tool cannot reasonably be evaluated in exactly the same way.
 
-Linux, SQLite, a Python library, a Kubernetes operator, a desktop application and a twenty-line Unix tool cannot reasonably be evaluated in exactly the same way.
-
-Metrics are observations.
-
-A score is an interpretation of those observations.
+Metrics are observations. A score is an interpretation of those observations.
 
 This distinction is visible throughout the existing work on OSS health. CHAOSS provides a large collection of metrics and metric models rather than one universal health score.[^chaoss] Apache describes maturity as a collection of characteristics instead of a numerical ranking.[^apache] Apereo similarly evaluates a broad set of organizational, community and technical properties.[^apereo]
 
-That is probably not accidental.
-
-OSSTRL is therefore best understood as a **first-pass maturity estimator**: something that can quickly inspect an unfamiliar repository, expose the evidence behind its result, and highlight where we need to look deeper.
+That is probably not accidental. OSSTRL[^osstrl] is therefore best understood as a **first-pass maturity estimator**: something that can quickly inspect an unfamiliar repository, expose the evidence behind its result, and highlight where we need to look deeper.
 
 The real objective is not the number.
 
@@ -877,8 +861,6 @@ The useful part is being able to say:
 That, to me, is already much more useful than counting GitHub stars.
 
 And the quest continues.
-
----
 
 [^osstrl]: **OSSTRL — Open Source Software Technology Readiness Level**, Alexandre Dulaunoy et al. OSSTRL is an experimental open-source application that estimates a readiness/maturity level from 1 to 9 using evidence that can be gathered automatically from a GitHub repository. The current implementation evaluates repository evidence across Community, Governance, Development, Support and Security/Privacy. It produces both a weighted score and a separate confidence/coverage value, then applies readiness gates to prevent easily observable repository artefacts from being sufficient on their own for a high maturity level. The project explicitly presents the result as an estimate rather than a replacement for a formal Technology Readiness Level assessment. Source code, methodology and examples: [https://github.com/adulau/osstrl](https://github.com/adulau/osstrl).
 
