@@ -95,4 +95,4 @@ Through [misp-standard.org](https://www.misp-standard.org/), I help publish inte
 
 ## Information classification, representation and sharing
 
-While being an avid reader, I'm always interested in the topics where information classication plays a role to support readers or writers in making information more accessible. I did some work on [machine tag usage](/cgi-bin/wiki.pl/MachineTag) and also maintains a specific JSON machine tags database for information sharing like [MISP taxonomies](https://github.com/MISP/misp-taxonomies).
+As a reader and writer, I’m interested in how classification makes information easier to find and use. My [history of machine tags]({{ '/machine-tags/' | relative_url }}) traces how my experiments in social bookmarking inspired my work on [MISP taxonomies](https://github.com/MISP/misp-taxonomies).
