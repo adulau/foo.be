@@ -2,7 +2,8 @@
 layout: page
 title: "Machine tags: from social bookmarking to MISP taxonomies"
 permalink: /machine-tags/
-description: "Alexandre Dulaunoy’s history of machine tags, from Flickr and del.icio.us to MISP taxonomies and the MISP taxonomy format Internet-Draft."
+description: "How experiments with Flickr and del.icio.us informed MISP taxonomies and the MISP taxonomy format Internet-Draft."
+indexed: true
 ---
 
 I used to tag my bookmarks with the licence, programming language, and sometimes my own rating of a free software project. Each detail fit in a small label that I could read and a program could parse. That habit, which I documented on my old MachineTag wiki page, later inspired my work on MISP taxonomies and the JSON format we use to share them.[^wiki]

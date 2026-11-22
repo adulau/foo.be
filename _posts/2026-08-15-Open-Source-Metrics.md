@@ -2,6 +2,7 @@
 layout: post
 title: "How mature is this repository? My long quest for open-source software metrics"
 date: 2026-08-15
+description: "What repository evidence can tell us about an open-source project’s health, readiness, and sustainability."
 ---
 
 # How mature is this repository? My long quest for open-source software metrics
