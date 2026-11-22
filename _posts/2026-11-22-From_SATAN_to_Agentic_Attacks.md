@@ -19,6 +19,12 @@ Of course, detection matters. Understanding agentic behavior, building detection
 
 Perhaps the most striking parallel with SATAN is how easily our attention shifts toward the technology exposing or exploiting weaknesses rather than the infrastructure that allows those weaknesses to persist. In 1995, we worried about automated vulnerability scanners. In 2026, we worry about autonomous offensive agents. The difference in capability is substantial, but the underlying defensive challenge remains remarkably familiar. **We keep debating the tools capable of navigating the ruins while paying too little attention to why so much of our digital infrastructure has been allowed to become ruins in the first place.**
 
+## Checking what we expose
+
+Start with the addresses your team manages. The Offensive Agency gathering module I built for MISP checks those addresses against the tracker’s observations of publicly exposed agent consoles and APIs. The observation date, hostnames and ports give you something to compare with your inventory and logs.
+
+If an address matches, check who owned it when it was observed and whether the service was meant to be public. If you confirm an unexpected exposure, work with the owner to restrict access and verify the change. I’ve written up how to set up a recurring inventory feed and look up a single IP during triage. [Monitoring agentic framework exposure with Offensive Agency and MISP]({{ '/2026/11/Offensive-Agency-in-MISP.html' | relative_url }})
+
 [^1]: ThreatDefence, [*Agentic Attack Detections*](https://github.com/ThreatDefence/agentic-attack-detections), GitHub repository, 2026. An open-source collection of detection rules, hunting queries, and indicators for agentic offensive frameworks. Ironically, we are still largely stacking detection rules in GitHub repositories, hoping defenders will find, maintain, and deploy them. However, projects such as [Rulezet](https://rulezet.org/) offer a more promising direction by automating the discovery, indexing, validation, synchronization, and distribution of detection rules across repositories and security platforms. Perhaps there is still hope: **if attackers can automate exploitation, defenders should be able to automate detection engineering too.**
 
 [^2]: Google Threat Intelligence Group, [*GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold*](https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold), November 16, 2026.
