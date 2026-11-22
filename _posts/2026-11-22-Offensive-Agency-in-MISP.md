@@ -53,11 +53,11 @@ The form returned a CSRF error on submission in the build I tested. I saved the 
 }
 ```
 
-The feed list offers **Fetch all events** for the saved feed. I queued the import with its equivalent, `POST /feeds/fetchFromFeed/{id}`, using the ID returned by MISP.
+The feed list offers **Fetch all events** for the saved feed. I queued the import with its equivalent, `POST /feeds/fetchFromFeed/{id}`, using the ID returned by MISP. The pinned `3.0_wip` build also needed a local fix for the ZIP download.[^download]
 
 ![MISP feed preview showing one Offensive Agency statistics event with seven attributes]({{ '/assets/offensive-agency-misp/misp-feed-preview.png' | relative_url }})
 
-*MISP’s preview of the source-dated event after the local download fix described below.*
+*MISP’s preview of the event dated by the provider’s statistics snapshot.*
 
 ## Read the imported observations
 
@@ -65,11 +65,11 @@ The 22 November 2026 statistics snapshot counted **7,873 active IPs** and **8,06
 
 ![The imported Offensive Agency statistics event in MISP with its two local provenance tags]({{ '/assets/offensive-agency-misp/misp-event.png' | relative_url }})
 
-*The imported event in the local MISP test instance after the download fix described below.*
+*The imported statistics event with both local provenance tags.*
 
 ## What an inventory observation looks like in MISP
 
-I compared the fields in the public export with the data from the per-host API. They share the same host fields, and the per-host response also includes `services`. I added the complete per-host JSON to the gathering module as an attachment. The follow-up PR groups the triage fields in an `offensive-agency-observation` object and moves the attachment into its `source-record` field. [Public hosts export](https://offensive.agency/api/hosts.json) · [Host record import](https://github.com/MISP/misp-modules/pull/1172) · [Gathering module PR](https://github.com/MISP/misp-modules/pull/1173) · [Object template PR](https://github.com/MISP/misp-objects/pull/609)
+The public export and the per-host API share the same host fields, and the per-host response also includes `services`. The module now groups the triage fields in an `offensive-agency-observation` object and attaches the complete per-host JSON as `source-record`. [Public hosts export](https://offensive.agency/api/hosts.json) · [Host record import](https://github.com/MISP/misp-modules/pull/1172) · [Gathering module PR](https://github.com/MISP/misp-modules/pull/1173) · [Object template PR](https://github.com/MISP/misp-objects/pull/609)
 
 For the walkthrough I used a synthetic response for `192.0.2.3`, a documentation address. In the feed settings above, I replaced the empty `parameters` object with this one. On an operational feed, use addresses from your approved inventory.
 
@@ -81,9 +81,9 @@ The imported object has eight attributes. These cover the IP address, source lin
 
 [![MISP Objects tab showing the Offensive Agency observation, its eight attributes and the downloadable JSON]({{ '/assets/offensive-agency-misp/misp-asset-observation.png' | relative_url }})]({{ '/assets/offensive-agency-misp/misp-asset-observation.png' | relative_url }})
 
-*The synthetic asset event imported into MISP using the proposed object template. The `source-record` attachment preserves the details behind the summary.*
+*The synthetic asset event in MISP. The `source-record` attachment preserves the details behind the summary.*
 
-I downloaded the attachment from MISP and compared all 18 fields with the fixture. Here is the JSON, formatted for readability.
+Here’s the complete 18-field JSON I downloaded from MISP, formatted for readability.
 
 ```json
 {
@@ -117,26 +117,22 @@ I downloaded the attachment from MISP and compared all 18 fields with the fixtur
 }
 ```
 
-Repeating the fixture fetch kept the same event and object. I also checked the upgrade from an earlier flat event. When a newer source revision arrived, MISP added the observation object to the existing event and kept its previously imported standalone attributes.
+## How defenders can use the feed
 
-For day-to-day monitoring, keep the aggregate feed separate from an inventory feed. The aggregate events give a dated record of the provider’s observations. An inventory match gives your team something actionable to check against its asset owner, expected public exposure, and the observation dates. A shared CDN address can represent unrelated services. The provider’s confidence concerns the software it observed, while the operator’s intent remains unknown.
+I’d run the two feeds on the regular fetch schedule. The daily statistics show which frameworks are becoming more visible in the tracker. A separate inventory feed keeps the team focused on observations of its own assets.
 
-The module sets `to_ids` to false on the attributes. In aggregate mode it also disables correlation on each attribute. I can use the local `misp-gathering:source="offensive.agency"` tag to find the collection events and review them before using any of the information in a detection rule.
+If a match shows an exposed console, check who owned the address on the observation date and whether the service was meant to be public. Compare any hostnames and ports in `source-record` with your inventory and logs, especially when the IP belongs to a shared CDN. If you confirm an unexpected exposure, work with the owner to restrict access, verify the change in your own systems, and watch for later sightings.
 
-Once the feed is configured, use it in your regular feed fetch schedule. The module keys a statistics event by the upstream snapshot date. An unchanged snapshot keeps the same event UUID and source timestamp, so MISP can skip it on repeat pulls. A new snapshot date gets its own event. Same-day corrections with the same source timestamp are also skipped by the importer.[^setup]
+The local `misp-gathering:source="offensive.agency"` tag makes the observations easy to find in MISP. Each match is a lead to review, so the module leaves `to_ids` off. The provider’s confidence describes the software it observed, while the operator’s intent remains unknown.
 
-## What I tested
+## A first experiment with gathering modules
 
-The gathering contract and Offensive Agency tests passed all 58 cases. I ran the live module twice in statistics mode and checked the ZIP’s checksum, the manifest, the event, and its stable UUID and timestamp. A live inventory lookup for the documentation address `192.0.2.1` returned zero events. For a positive inventory match, I used the synthetic example above.[^tests]
-
-The unmodified MISP core rejected the ZIP with a size or SHA-256 mismatch. The core’s HTTP client replaced the callback that writes the ZIP to disk with its normal in-memory body collector. In the local test instance I corrected the callback selection and enforced the byte limit while streaming, so the importer could check the downloaded file’s size and SHA-256. Both worker runs then completed. The first saved one organisation-only event with seven attributes and two local provenance tags. The repeat kept the same event and attributes.[^download]
+I built this as a first experiment with the new `gathering` module type in `misp-modules`. I wanted to see how a public data source could become part of a regular feed workflow, with each event recording where the data came from and which module collected it. I’ll update this post as the module and its MISP integration evolve, especially as teams try it with their own inventories.
 
 [^source]: Offensive Agency explains the source data, seven-day active window, confidence levels, and coverage limits. [Tracker methodology](https://offensive.agency/about) · [Statistics](https://offensive.agency/stats)
 
-[^versions]: I ran the first walkthrough with MISP `6c6e4c5` on `3.0_wip` and misp-modules `668d9a6` on `main`. I used the same MISP instance with the updated collector and proposed template for the inventory example. [MISP branch snapshot](https://github.com/MISP/MISP/tree/6c6e4c5c7f93a47e8213277ad43b2c90550c8d28) · [Initial gathering module PR](https://github.com/MISP/misp-modules/pull/1169)
+[^versions]: I ran the first walkthrough with MISP `6c6e4c5` on `3.0_wip` and misp-modules `668d9a6` on `main`. I used the same MISP instance with the updated collector and observation template for the inventory example. [MISP branch snapshot](https://github.com/MISP/MISP/tree/6c6e4c5c7f93a47e8213277ad43b2c90550c8d28) · [Initial gathering module PR](https://github.com/MISP/misp-modules/pull/1169)
 
 [^setup]: The gathering guide documents the feed contract, local provenance tags, and revision handling. [Gathering module guide](https://github.com/MISP/misp-modules/blob/668d9a68971fb09deaada74c456bc505fdc3423d/documentation/mkdocs/gathering-guide.md)
 
-[^tests]: The run included the generic gathering suite and the source-specific suite. [Gathering tests](https://github.com/MISP/misp-modules/blob/668d9a68971fb09deaada74c456bc505fdc3423d/tests/test_gathering.py) · [Offensive Agency tests](https://github.com/MISP/misp-modules/blob/668d9a68971fb09deaada74c456bc505fdc3423d/tests/test_offensive_agency_gathering.py)
-
-[^download]: In the tested core snapshot the later body collector replaces the streaming callback in `CurlClient`. The gathering importer validates the size and digest before extraction. [HTTP client](https://github.com/MISP/MISP/blob/6c6e4c5c7f93a47e8213277ad43b2c90550c8d28/app/Lib/Tools/CurlClient.php#L352-L405) · [Archive validation](https://github.com/MISP/MISP/blob/6c6e4c5c7f93a47e8213277ad43b2c90550c8d28/app/Lib/Tools/GatheringFeedTool.php#L145-L150)
+[^download]: In the pinned core snapshot `CurlClient` replaced the callback that writes the ZIP to disk. I corrected the callback selection locally and enforced the byte limit during streaming. MISP then checked the downloaded file’s size and SHA-256 before extraction. [HTTP client](https://github.com/MISP/MISP/blob/6c6e4c5c7f93a47e8213277ad43b2c90550c8d28/app/Lib/Tools/CurlClient.php#L352-L405) · [Archive validation](https://github.com/MISP/MISP/blob/6c6e4c5c7f93a47e8213277ad43b2c90550c8d28/app/Lib/Tools/GatheringFeedTool.php#L145-L150)
