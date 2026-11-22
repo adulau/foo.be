@@ -54,7 +54,7 @@ The form returned a CSRF error on submission in the build I tested. I saved the 
 }
 ```
 
-The feed list offers **Fetch all events** for the saved feed. I queued the import with its equivalent, `POST /feeds/fetchFromFeed/{id}`, using the ID returned by MISP. The pinned `3.0_wip` build also needed a local fix for the ZIP download.[^download]
+The feed list offers **Fetch all events** for the saved feed. I queued the import with its equivalent, `POST /feeds/fetchFromFeed/{id}`, using the ID returned by MISP.
 
 ![MISP feed preview showing one Offensive Agency statistics event with seven attributes]({{ '/assets/offensive-agency-misp/misp-feed-preview.png' | relative_url }})
 
@@ -161,5 +161,3 @@ I built this as a first experiment with the new `gathering` module type in `misp
 [^versions]: I ran the statistics walkthrough with MISP `6c6e4c5` on `3.0_wip` and misp-modules `668d9a6` on `main`. The updated screenshots use the same MISP instance and misp-modules `b495a41`, which includes full-history gathering and IP expansion. [MISP branch snapshot](https://github.com/MISP/MISP/tree/6c6e4c5c7f93a47e8213277ad43b2c90550c8d28) · [Updated module snapshot](https://github.com/MISP/misp-modules/tree/b495a41d7bc4172492b8dd7b864375c4133b5387)
 
 [^setup]: The gathering guide documents the feed contract, local provenance tags, and revision handling. [Gathering module guide](https://github.com/MISP/misp-modules/blob/b495a41d7bc4172492b8dd7b864375c4133b5387/documentation/mkdocs/gathering-guide.md#offensive-agency)
-
-[^download]: In the pinned core snapshot `CurlClient` replaced the callback that writes the ZIP to disk. I used the proposed streaming fix in the test instance. MISP still checks the downloaded file’s size and SHA-256 before extraction. [MISP core fix](https://github.com/MISP/MISP/pull/11312) · [Archive validation](https://github.com/MISP/MISP/blob/6c6e4c5c7f93a47e8213277ad43b2c90550c8d28/app/Lib/Tools/GatheringFeedTool.php#L145-L150)
