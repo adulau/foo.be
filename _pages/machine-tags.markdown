@@ -29,9 +29,11 @@ Other communities took the idea in different directions. Flickr made namespaces 
 
 ## Folksonomy versus taxonomy
 
-A folksonomy grows from the labels people choose in practice. The freedom to coin a namespace or predicate let people try an idea without asking a central authority. If others found it useful, they could adopt it. The cost showed up when one meaning acquired several spellings, or when two groups used the same term differently. My licence notes ran into this problem with `gpl`. Software could parse the tag, but the licence version and the “or later” question remained ambiguous.[^folksonomy]
+A folksonomy grows from the labels people choose in practice. The freedom to coin a namespace or predicate let people try an idea without asking a central authority. If others found it useful, they could adopt it. The cost showed up when one meaning acquired several spellings, or when two groups used the same term differently. In my licence notes I listed `license:gpl-2-only` for version 2 alone. Someone else’s `license:gpl` was easy for software to parse, but could still leave the version and the “or later” question open.[^folksonomy]
 
 A taxonomy records the terms a group has agreed to use and what each one means. Machine tags give both approaches the same syntax. A person can try out a new tag on a bookmark, and a community can publish a vocabulary when others need to filter, compare, or automate against it. In threat intelligence, that shared meaning matters because the receiving analyst may never meet the person who applied the tag.
+
+The SPDX License List shows how that idea works in practice for software licensing. It publishes a structured vocabulary of licences and exceptions with standard identifiers, full names, and texts. A source file can declare `SPDX-License-Identifier: GPL-2.0-only` for version 2 alone, or use `GPL-2.0-or-later` when later versions are permitted. The list is available as JSON. Like MISP taxonomies, it pairs a compact label with a shared definition that different tools can look up and use consistently.[^spdx]
 
 ## 2015–2017: From individual tags to shared MISP vocabularies
 
@@ -71,6 +73,8 @@ January 2027 marks twenty years since Flickr introduced machine tags. The early 
 [^reading-list]: Aaron Straup Cope’s collection follows Flickr’s API from wildcard queries to browsing namespaces and predicates, then to references across sites. It also records projects in astronomy, biodiversity, library cataloguing, and cloud infrastructure. [Machine Tags Reading List](https://github.com/straup/machinetags-readinglist/blob/master/machinetags-readinglist.md)
 
 [^folksonomy]: Thomas Vander Wal describes folksonomy as classification that emerges from people tagging material for their own retrieval. My licence notes show how different readings of a single label can affect automated reuse. [Folksonomy](https://vanderwal.net/folksonomy.html) · [MachineTagLicense](https://www.foo.be/archive/pages/MachineTagLicense.html)
+
+[^spdx]: SPDX maintains the licence and exception entries and publishes machine-readable versions of the list. Its source-file guidance explains how to declare an identifier in code. [SPDX License List](https://spdx.org/licenses/) · [Machine-readable data](https://github.com/spdx/license-list-data) · [Source-file guidance](https://spdx.dev/learn/handling-license-info/)
 
 [^misp]: The public collection includes the JSON vocabularies, a manifest, and tools for generating tags. The earlier CIRCL training material illustrates how analysts use them in MISP. [MISP Taxonomies repository](https://github.com/MISP/misp-taxonomies) · [Classification using MISP](https://www.circl.lu/assets/files/misp-training/3.2-MISP-Taxonomy-Tagging.pdf)
 
