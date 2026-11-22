@@ -3,6 +3,7 @@ layout: page
 title: Paper notebook usage 
 permalink: /paper-notebook-usage/
 indexed: true
+description: "How I choose, organise, and use paper notebooks for ideas, research, and project notes."
 ---
 
 # Paper notebook usage - how do I use and choose a paper notebook?

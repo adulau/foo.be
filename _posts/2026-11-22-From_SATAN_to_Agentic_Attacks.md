@@ -2,6 +2,7 @@
 layout: post
 title: "From SATAN to Agentic Attacks: We Keep Fearing the Tools, Not the Infrastructure"
 date: 2026-11-22
+description: "What three decades of security debates reveal about the infrastructure that makes attacks possible."
 ---
 
 Here we go again. The cybersecurity community has discovered another terrifying category of tools: agentic attack frameworks. ARTEX, Cairn, PentAGI, HexStrike, and others are making headlines because they allow AI agents to automate reconnaissance, exploitation, and lateral movement. Reports of their use in real intrusions are multiplying, and defensive initiatives such as [Agentic Attack Detections][^1] are emerging to track their activities. The concerns are legitimate, but the reaction feels remarkably familiar. We seem much more comfortable discussing the dangers of tools than confronting the uncomfortable reality of the infrastructure they exploit.[^2]

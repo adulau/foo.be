@@ -2,6 +2,7 @@
 layout: post
 title: "Sovereignty Is Engineered, Not Procured"
 date: 2026-06-06 02:02:00
+description: "Why digital sovereignty depends on the ability to build, operate, and govern software."
 categories: collaboration team 
 ---
 
