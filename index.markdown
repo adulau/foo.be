@@ -24,39 +24,30 @@ If you're curious, you can check out a collection of my live activities on [this
 
 ## Projects
 
-In my quest of free software crafting, I regularly release or contribute to free software projects. [My GitHub project page](https://github.com/adulau/) includes some current projects and contributions.
+I build and maintain free software, open data, and open specifications with collaborators across several communities. My [GitHub profile](https://github.com/adulau/adulau/) has a fuller list of projects and contributions.
 
-### Forban
+### Threat intelligence and collaborative analysis
 
-[Forban](/forban/) is a link-local opportunistic p2p free software. You can share files with everyone in your proximity without Internet connectivity. The implementation is written in Python but can be easily implemented as the protocol is minimal.
+- [MISP](https://github.com/MISP/MISP) helps organisations collect, correlate, and share threat intelligence. As part of the core team, I contribute to the software, shared data models, and standards. I also maintain [misp-modules](https://github.com/MISP/misp-modules), which provides enrichment, import, and export tools for MISP and other platforms.
+- [AIL](https://github.com/ail-project/ail-framework) supports investigations by collecting and analysing unstructured information. [D4](https://github.com/D4-project/d4-core) provides distributed sensors for security telemetry, and [RansomLook](https://github.com/RansomLook/RansomLook) tracks ransomware groups' public activity.
 
-### hotp-js
+### Vulnerabilities and disclosure
 
-[hotp-js - A JavaScript HOTP implementation](https://github.com/adulau/hotp-js) (HMAC-Based One-Time Password Algorithm) as described in RFC4226.
+- I co-develop and co-maintain [cve-search](https://github.com/cve-search/cve-search), which aggregates vulnerability data for local searches, and [Vulnerability-Lookup](https://github.com/vulnerability-lookup/vulnerability-lookup), which helps correlate advisories, share sightings, and coordinate disclosure.
 
-### netbeacon
+### Digital forensics and Internet infrastructure
 
-[netbeacon](https://github.com/adulau/netbeacon) is a set of free software tools to send beacons over the network to test the accuracy and the precision of your network capture framework.
+- [hashlookup](https://github.com/hashlookup) helps investigators identify known files using reference datasets. The [server](https://github.com/adulau/hashlookup-server) powers the [CIRCL hashlookup service](https://hashlookup.circl.lu/), and the [forensic analyser](https://github.com/hashlookup/hashlookup-forensic-analyser) uses it to report known and unknown files.
+- I maintain [ssldump](https://github.com/adulau/ssldump) for analysing SSL/TLS traffic. Other tools include [DomainClassifier](https://github.com/adulau/DomainClassifier) for extracting and classifying domains and IP addresses, and [netbeacon](https://github.com/adulau/netbeacon) for checking network capture accuracy.
 
-### Passive DNS framework and standards
+### Open standards
 
-I implemented multiple Passive DNS frameworks including [pdns-qof-server](https://github.com/adulau/pdns-qof-server) and an experimental storage backend in memory [Passive DNS visualization and Passive DNS server toolkit ](https://github.com/adulau/pdns-toolkit). I also co-designed "[Passive DNS - Common Output Format](https://tools.ietf.org/html/draft-dulaunoy-dnsop-passive-dns-cof-01)" to help the integration of different Passive DNS infrastructures.
+- I contribute to [GCVE](https://github.com/gcve-eu) specifications and best current practices for decentralised vulnerability publication and identifier allocation.
+- Through the [MISP standards project](https://www.misp-standard.org/), I help document interoperable formats for threat intelligence. I also co-authored the [Passive DNS Common Output Format](https://datatracker.ietf.org/doc/draft-dulaunoy-dnsop-passive-dns-cof/) Internet-Draft.
 
-### Passive SSL framework
+### Earlier tools and experiments
 
-In the same scope of Passive DNS, historical monitoring of X.509 certificate per IP address is useful to better understand the current and past use of Internet resources. Code is available in [crl-monitor](https://github.com/adulau/crl-monitor). I also maintain the modern [ssldump](https://github.com/adulau/ssldump) version.
-
-### cve-search
-
-I co-develop and co-maintain [cve-search](https://github.com/adulau/cve-search), a tool to import CVE (Common Vulnerabilities and Exposures) and CPE (Common Platform Enumeration) into a MongoDB to facilitate search and processing of CVEs. The main objective of the software is to avoid doing direct and public lookup into the public CVE database. cve-search supports multiple sources and feeds of vulnerability database to aggregate the information about software vulnerabilities.
-
-### MISP
-
-Being part of the core team of the [MISP Project](https://www.misp-project.org/), I'm involved in the development of the project from the early beginning and contribute on various aspects with a wonderful team. I'm also the co-author of the various Internet-Draft for the [MISP standard format](https://www.misp-standard.org/).
-
-### Other software
-
-[DomainClassifier](https://github.com/adulau/DomainClassifier), [misp-modules](https://www.github.com/MISP/misp-modules/), url-archiver... and [some more on GitHub](https://www.github.com/adulau/).
+[Forban](/forban/) shares files over local networks without Internet access, and [hotp-js](https://github.com/adulau/hotp-js) implements the HOTP one-time password algorithm in JavaScript. Earlier Internet infrastructure work includes [pdns-qof-server](https://github.com/adulau/pdns-qof-server), [pdns-toolkit](https://github.com/adulau/pdns-toolkit), and [crl-monitor](https://github.com/adulau/crl-monitor).
 
 ## Information classification, representation and sharing
 
